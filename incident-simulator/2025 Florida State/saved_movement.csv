@@ -1,0 +1,1873 @@
+Timestamp,Clock Time,Entity ID,X,Y,Rounds Fired,Status
+0,11:57:00 AM,Shooter,50,8,0,Alive
+1,11:57:01 AM,Shooter,50,8,0,Alive
+2,11:57:02 AM,Shooter,50,8,0,Alive
+3,11:57:03 AM,Shooter,50,8,0,Alive
+4,11:57:04 AM,Shooter,50,8,0,Alive
+5,11:57:05 AM,Shooter,50,8,0,Alive
+6,11:57:06 AM,Shooter,50,8,0,Alive
+7,11:57:07 AM,Shooter,50,8,0,Alive
+8,11:57:08 AM,Shooter,50,8,0,Alive
+9,11:57:09 AM,Shooter,50,8,0,Alive
+10,11:57:10 AM,Shooter,50,8,0,Alive
+11,11:57:11 AM,Shooter,50,8,0,Alive
+12,11:57:12 AM,Shooter,50,8,0,Alive
+13,11:57:13 AM,Shooter,50,8,0,Alive
+14,11:57:14 AM,Shooter,50,8,0,Alive
+15,11:57:15 AM,Shooter,50,8,0,Alive
+16,11:57:16 AM,Shooter,50,8,0,Alive
+17,11:57:17 AM,Shooter,50,8,0,Alive
+18,11:57:18 AM,Shooter,50,8,0,Alive
+19,11:57:19 AM,Shooter,50,9,0,Alive
+20,11:57:20 AM,Shooter,50,10,0,Alive
+21,11:57:21 AM,Shooter,50,11,0,Alive
+22,11:57:22 AM,Shooter,50,12,0,Alive
+23,11:57:23 AM,Shooter,50,12,0,Alive
+24,11:57:24 AM,Shooter,50,12,1,Alive
+25,11:57:25 AM,Shooter,50,12,1,Alive
+26,11:57:26 AM,Shooter,50,12,1,Alive
+27,11:57:27 AM,Shooter,50,12,1,Alive
+28,11:57:28 AM,Shooter,50,12,1,Alive
+29,11:57:29 AM,Shooter,50,12,1,Alive
+30,11:57:30 AM,Shooter,50,12,0,Alive
+31,11:57:31 AM,Shooter,51,13,1,Alive
+32,11:57:32 AM,Shooter,52,14,1,Alive
+33,11:57:33 AM,Shooter,53,15,1,Alive
+34,11:57:34 AM,Shooter,54,16,1,Alive
+35,11:57:35 AM,Shooter,55,17,1,Alive
+36,11:57:36 AM,Shooter,56,18,1,Alive
+37,11:57:37 AM,Shooter,57,19,1,Alive
+38,11:57:38 AM,Shooter,58,20,1,Alive
+39,11:57:39 AM,Shooter,59,21,1,Alive
+40,11:57:40 AM,Shooter,60,22,0,Alive
+41,11:57:41 AM,Shooter,61,23,0,Alive
+42,11:57:42 AM,Shooter,62,24,0,Alive
+43,11:57:43 AM,Shooter,63,25,0,Alive
+44,11:57:44 AM,Shooter,64,26,0,Alive
+45,11:57:45 AM,Shooter,65,27,0,Alive
+46,11:57:46 AM,Shooter,66,28,0,Alive
+47,11:57:47 AM,Shooter,67,29,0,Alive
+48,11:57:48 AM,Shooter,68,30,0,Alive
+49,11:57:49 AM,Shooter,69,31,0,Alive
+50,11:57:50 AM,Shooter,70,32,0,Alive
+51,11:57:51 AM,Shooter,72,34,0,Alive
+52,11:57:52 AM,Shooter,74,36,0,Alive
+53,11:57:53 AM,Shooter,75,37,0,Alive
+54,11:57:54 AM,Shooter,76,38,0,Alive
+55,11:57:55 AM,Shooter,77,39,0,Alive
+56,11:57:56 AM,Shooter,77,40,0,Alive
+57,11:57:57 AM,Shooter,77,41,0,Alive
+58,11:57:58 AM,Shooter,77,42,0,Alive
+59,11:57:59 AM,Shooter,77,43,0,Alive
+60,11:58:00 AM,Shooter,77,44,0,Alive
+61,11:58:01 AM,Shooter,77,45,0,Alive
+62,11:58:02 AM,Shooter,77,46,0,Alive
+63,11:58:03 AM,Shooter,77,47,0,Alive
+64,11:58:04 AM,Shooter,77,48,0,Alive
+65,11:58:05 AM,Shooter,77,49,0,Alive
+66,11:58:06 AM,Shooter,77,50,0,Alive
+67,11:58:07 AM,Shooter,77,51,0,Alive
+68,11:58:08 AM,Shooter,77,52,0,Alive
+69,11:58:09 AM,Shooter,77,53,0,Alive
+70,11:58:10 AM,Shooter,77,54,0,Alive
+71,11:58:11 AM,Shooter,77,55,0,Alive
+72,11:58:12 AM,Shooter,77,56,0,Alive
+73,11:58:13 AM,Shooter,77,57,0,Alive
+74,11:58:14 AM,Shooter,77,58,0,Alive
+75,11:58:15 AM,Shooter,77,59,0,Alive
+76,11:58:16 AM,Shooter,77,60,0,Alive
+77,11:58:17 AM,Shooter,77,61,0,Alive
+78,11:58:18 AM,Shooter,77,62,0,Alive
+79,11:58:19 AM,Shooter,77,63,0,Alive
+80,11:58:20 AM,Shooter,77,64,0,Alive
+81,11:58:21 AM,Shooter,77,65,0,Alive
+82,11:58:22 AM,Shooter,77,66,0,Alive
+83,11:58:23 AM,Shooter,77,67,0,Alive
+84,11:58:24 AM,Shooter,77,68,0,Alive
+85,11:58:25 AM,Shooter,77,69,0,Alive
+86,11:58:26 AM,Shooter,76,71,0,Alive
+87,11:58:27 AM,Shooter,76,73,0,Alive
+88,11:58:28 AM,Shooter,75,78,0,Alive
+89,11:58:29 AM,Shooter,75,83,0,Alive
+90,11:58:30 AM,Shooter,75,88,0,Alive
+91,11:58:31 AM,Shooter,75,93,0,Alive
+92,11:58:32 AM,Shooter,75,98,0,Alive
+93,11:58:33 AM,Shooter,76,102,0,Alive
+94,11:58:34 AM,Shooter,76,106,0,Alive
+95,11:58:35 AM,Shooter,76,107,0,Alive
+96,11:58:36 AM,Shooter,76,108,1,Alive
+97,11:58:37 AM,Shooter,76,108,1,Alive
+98,11:58:38 AM,Shooter,76,108,1,Alive
+99,11:58:39 AM,Shooter,76,109,1,Alive
+100,11:58:40 AM,Shooter,76,109,1,Alive
+101,11:58:41 AM,Shooter,76,109,0,Alive
+102,11:58:42 AM,Shooter,76,110,0,Alive
+103,11:58:43 AM,Shooter,76,110,0,Alive
+104,11:58:44 AM,Shooter,77,110,0,Alive
+105,11:58:45 AM,Shooter,78,110,0,Alive
+106,11:58:46 AM,Shooter,79,110,0,Alive
+107,11:58:47 AM,Shooter,80,110,0,Alive
+108,11:58:48 AM,Shooter,79,110,0,Alive
+109,11:58:49 AM,Shooter,78,110,0,Alive
+110,11:58:50 AM,Shooter,77,110,2,Alive
+111,11:58:51 AM,Shooter,76,110,0,Alive
+112,11:58:52 AM,Shooter,75,116,0,Alive
+113,11:58:53 AM,Shooter,73,122,0,Alive
+114,11:58:54 AM,Shooter,71,128,1,Alive
+115,11:58:55 AM,Shooter,69,130,1,Alive
+116,11:58:56 AM,Shooter,69,133,1,Alive
+117,11:58:57 AM,Shooter,67,136,1,Alive
+118,11:58:58 AM,Shooter,66,139,0,Alive
+119,11:58:59 AM,Shooter,66,141,0,Alive
+120,11:59:00 AM,Shooter,66,141,1,Alive
+121,11:59:01 AM,Shooter,66,141,1,Alive
+122,11:59:02 AM,Shooter,66,141,1,Alive
+123,11:59:03 AM,Shooter,66,141,1,Alive
+124,11:59:04 AM,Shooter,66,141,0,Alive
+125,11:59:05 AM,Shooter,66,141,0,Alive
+126,11:59:06 AM,Shooter,66,139,0,Alive
+127,11:59:07 AM,Shooter,67,137,0,Alive
+128,11:59:08 AM,Shooter,68,135,1,Alive
+129,11:59:09 AM,Shooter,69,133,1,Alive
+130,11:59:10 AM,Shooter,69,131,0,Alive
+131,11:59:11 AM,Shooter,70,129,0,Alive
+132,11:59:12 AM,Shooter,72,128,0,Alive
+133,11:59:13 AM,Shooter,73,126,0,Alive
+134,11:59:14 AM,Shooter,74,124,0,Alive
+135,11:59:15 AM,Shooter,75,122,0,Alive
+136,11:59:16 AM,Shooter,75,121,0,Alive
+137,11:59:17 AM,Shooter,75,120,0,Alive
+138,11:59:18 AM,Shooter,75,119,0,Alive
+139,11:59:19 AM,Shooter,75,118,0,Alive
+140,11:59:20 AM,Shooter,75,117,0,Alive
+141,11:59:21 AM,Shooter,75,116,0,Alive
+142,11:59:22 AM,Shooter,75,115,0,Alive
+143,11:59:23 AM,Shooter,75,114,0,Alive
+144,11:59:24 AM,Shooter,75,113,0,Alive
+145,11:59:25 AM,Shooter,75,112,0,Alive
+146,11:59:26 AM,Shooter,75,111,0,Alive
+147,11:59:27 AM,Shooter,75,110,0,Alive
+148,11:59:28 AM,Shooter,76,109,0,Alive
+149,11:59:29 AM,Shooter,76,108,0,Alive
+150,11:59:30 AM,Shooter,76,107,0,Alive
+151,11:59:31 AM,Shooter,75,103,0,Alive
+152,11:59:32 AM,Shooter,74,99,0,Alive
+153,11:59:33 AM,Shooter,71,96,0,Alive
+154,11:59:34 AM,Shooter,67,96,0,Alive
+155,11:59:35 AM,Shooter,63,96,0,Alive
+156,11:59:36 AM,Shooter,59,96,0,Alive
+157,11:59:37 AM,Shooter,55,96,0,Alive
+158,11:59:38 AM,Shooter,51,96,0,Alive
+159,11:59:39 AM,Shooter,49,96,0,Alive
+160,11:59:40 AM,Shooter,47,96,0,Alive
+161,11:59:41 AM,Shooter,45,96,0,Alive
+162,11:59:42 AM,Shooter,43,96,1,Alive
+163,11:59:43 AM,Shooter,41,96,1,Alive
+164,11:59:44 AM,Shooter,39,96,0,Alive
+165,11:59:45 AM,Shooter,39,96,1,Alive
+166,11:59:46 AM,Shooter,39,96,1,Alive
+167,11:59:47 AM,Shooter,39,96,0,Alive
+168,11:59:48 AM,Shooter,39,96,0,Alive
+169,11:59:49 AM,Shooter,39,95,0,Alive
+170,11:59:50 AM,Shooter,39,94,0,Alive
+171,11:59:51 AM,Shooter,39,93,0,Alive
+172,11:59:52 AM,Shooter,39,92,0,Alive
+173,11:59:53 AM,Shooter,39,91,0,Alive
+174,11:59:54 AM,Shooter,39,89,0,Alive
+175,11:59:55 AM,Shooter,39,87,0,Alive
+176,11:59:56 AM,Shooter,39,85,0,Alive
+177,11:59:57 AM,Shooter,39,83,0,Alive
+178,11:59:58 AM,Shooter,39,81,0,Alive
+179,11:59:59 AM,Shooter,39,78,0,Alive
+180,12:00:00 PM,Shooter,39,75,0,Alive
+181,12:00:01 PM,Shooter,39,72,0,Alive
+182,12:00:02 PM,Shooter,41,70,0,Alive
+183,12:00:03 PM,Shooter,46,69,2,Alive
+184,12:00:04 PM,Shooter,51,69,2,Alive
+185,12:00:05 PM,Shooter,57,69,0,Alive
+186,12:00:06 PM,Shooter,58,65,0,Alive
+187,12:00:07 PM,Shooter,59,59,0,Alive
+188,12:00:08 PM,Shooter,59,55,0,Alive
+189,12:00:09 PM,Shooter,59,53,1,Alive
+190,12:00:10 PM,Shooter,59,52,1,Alive
+191,12:00:11 PM,Shooter,59,52,1,Alive
+192,12:00:12 PM,Shooter,62,50,0,Alive
+193,12:00:13 PM,Shooter,65,48,0,Alive
+194,12:00:14 PM,Shooter,68,46,0,Alive
+195,12:00:15 PM,Shooter,71,44,0,Alive
+196,12:00:16 PM,Shooter,74,42,0,Alive
+197,12:00:17 PM,Shooter,77,40,0,Alive
+198,12:00:18 PM,Shooter,80,38,0,Alive
+199,12:00:19 PM,Shooter,83,36,0,Alive
+200,12:00:20 PM,Shooter,86,34,0,Alive
+201,12:00:21 PM,Shooter,89,32,0,Alive
+202,12:00:22 PM,Shooter,89,32,0,Alive
+203,12:00:23 PM,Shooter,89,32,1,Alive
+204,12:00:24 PM,Shooter,89,32,1,Alive
+205,12:00:25 PM,Shooter,89,32,0,Alive
+206,12:00:26 PM,Shooter,89,32,0,Alive
+207,12:00:27 PM,Shooter,89,32,0,Alive
+0,11:57:00 AM,Victim 1,76,111,0,Alive
+1,11:57:01 AM,Victim 1,76,111,0,Alive
+2,11:57:02 AM,Victim 1,76,111,0,Alive
+3,11:57:03 AM,Victim 1,76,111,0,Alive
+4,11:57:04 AM,Victim 1,76,111,0,Alive
+5,11:57:05 AM,Victim 1,76,111,0,Alive
+6,11:57:06 AM,Victim 1,76,111,0,Alive
+7,11:57:07 AM,Victim 1,76,111,0,Alive
+8,11:57:08 AM,Victim 1,76,111,0,Alive
+9,11:57:09 AM,Victim 1,76,111,0,Alive
+10,11:57:10 AM,Victim 1,76,111,0,Alive
+11,11:57:11 AM,Victim 1,76,111,0,Alive
+12,11:57:12 AM,Victim 1,76,111,0,Alive
+13,11:57:13 AM,Victim 1,76,111,0,Alive
+14,11:57:14 AM,Victim 1,76,111,0,Alive
+15,11:57:15 AM,Victim 1,76,111,0,Alive
+16,11:57:16 AM,Victim 1,76,111,0,Alive
+17,11:57:17 AM,Victim 1,76,111,0,Alive
+18,11:57:18 AM,Victim 1,76,111,0,Alive
+19,11:57:19 AM,Victim 1,76,111,0,Alive
+20,11:57:20 AM,Victim 1,76,111,0,Alive
+21,11:57:21 AM,Victim 1,76,111,0,Alive
+22,11:57:22 AM,Victim 1,76,111,0,Alive
+23,11:57:23 AM,Victim 1,76,111,0,Alive
+24,11:57:24 AM,Victim 1,76,111,0,Alive
+25,11:57:25 AM,Victim 1,76,111,0,Alive
+26,11:57:26 AM,Victim 1,76,111,0,Alive
+27,11:57:27 AM,Victim 1,76,111,0,Alive
+28,11:57:28 AM,Victim 1,76,111,0,Alive
+29,11:57:29 AM,Victim 1,76,111,0,Alive
+30,11:57:30 AM,Victim 1,76,111,0,Alive
+31,11:57:31 AM,Victim 1,76,111,0,Alive
+32,11:57:32 AM,Victim 1,76,111,0,Alive
+33,11:57:33 AM,Victim 1,76,111,0,Alive
+34,11:57:34 AM,Victim 1,76,111,0,Alive
+35,11:57:35 AM,Victim 1,76,111,0,Alive
+36,11:57:36 AM,Victim 1,76,111,0,Alive
+37,11:57:37 AM,Victim 1,76,111,0,Alive
+38,11:57:38 AM,Victim 1,76,111,0,Alive
+39,11:57:39 AM,Victim 1,76,111,0,Alive
+40,11:57:40 AM,Victim 1,76,111,0,Alive
+41,11:57:41 AM,Victim 1,76,111,0,Alive
+42,11:57:42 AM,Victim 1,76,111,0,Alive
+43,11:57:43 AM,Victim 1,76,111,0,Alive
+44,11:57:44 AM,Victim 1,76,111,0,Alive
+45,11:57:45 AM,Victim 1,76,111,0,Alive
+46,11:57:46 AM,Victim 1,76,111,0,Alive
+47,11:57:47 AM,Victim 1,76,111,0,Alive
+48,11:57:48 AM,Victim 1,76,111,0,Alive
+49,11:57:49 AM,Victim 1,76,111,0,Alive
+50,11:57:50 AM,Victim 1,76,111,0,Alive
+51,11:57:51 AM,Victim 1,76,111,0,Alive
+52,11:57:52 AM,Victim 1,76,111,0,Alive
+53,11:57:53 AM,Victim 1,76,111,0,Alive
+54,11:57:54 AM,Victim 1,76,111,0,Alive
+55,11:57:55 AM,Victim 1,76,111,0,Alive
+56,11:57:56 AM,Victim 1,76,111,0,Alive
+57,11:57:57 AM,Victim 1,76,111,0,Alive
+58,11:57:58 AM,Victim 1,76,111,0,Alive
+59,11:57:59 AM,Victim 1,76,111,0,Alive
+60,11:58:00 AM,Victim 1,76,111,0,Alive
+61,11:58:01 AM,Victim 1,76,111,0,Alive
+62,11:58:02 AM,Victim 1,76,111,0,Alive
+63,11:58:03 AM,Victim 1,76,111,0,Alive
+64,11:58:04 AM,Victim 1,76,111,0,Alive
+65,11:58:05 AM,Victim 1,76,111,0,Alive
+66,11:58:06 AM,Victim 1,76,111,0,Alive
+67,11:58:07 AM,Victim 1,76,111,0,Alive
+68,11:58:08 AM,Victim 1,76,111,0,Alive
+69,11:58:09 AM,Victim 1,76,111,0,Alive
+70,11:58:10 AM,Victim 1,76,111,0,Alive
+71,11:58:11 AM,Victim 1,76,111,0,Alive
+72,11:58:12 AM,Victim 1,76,111,0,Alive
+73,11:58:13 AM,Victim 1,76,111,0,Alive
+74,11:58:14 AM,Victim 1,76,111,0,Alive
+75,11:58:15 AM,Victim 1,76,111,0,Alive
+76,11:58:16 AM,Victim 1,76,111,0,Alive
+77,11:58:17 AM,Victim 1,76,111,0,Alive
+78,11:58:18 AM,Victim 1,76,111,0,Alive
+79,11:58:19 AM,Victim 1,76,111,0,Alive
+80,11:58:20 AM,Victim 1,76,111,0,Alive
+81,11:58:21 AM,Victim 1,76,111,0,Alive
+82,11:58:22 AM,Victim 1,76,111,0,Alive
+83,11:58:23 AM,Victim 1,76,111,0,Alive
+84,11:58:24 AM,Victim 1,76,111,0,Alive
+85,11:58:25 AM,Victim 1,76,111,0,Alive
+86,11:58:26 AM,Victim 1,76,111,0,Alive
+87,11:58:27 AM,Victim 1,76,111,0,Alive
+88,11:58:28 AM,Victim 1,76,111,0,Alive
+89,11:58:29 AM,Victim 1,76,111,0,Alive
+90,11:58:30 AM,Victim 1,76,111,0,Alive
+91,11:58:31 AM,Victim 1,76,111,0,Alive
+92,11:58:32 AM,Victim 1,76,111,0,Alive
+93,11:58:33 AM,Victim 1,76,111,0,Alive
+94,11:58:34 AM,Victim 1,76,111,0,Alive
+95,11:58:35 AM,Victim 1,76,111,0,Alive
+96,11:58:36 AM,Victim 1,76,111,0,Alive
+97,11:58:37 AM,Victim 1,76,111,0,Died
+98,11:58:38 AM,Victim 1,76,111,0,Died
+99,11:58:39 AM,Victim 1,76,111,0,Died
+100,11:58:40 AM,Victim 1,76,111,0,Died
+101,11:58:41 AM,Victim 1,76,111,0,Died
+102,11:58:42 AM,Victim 1,76,111,0,Died
+103,11:58:43 AM,Victim 1,76,111,0,Died
+104,11:58:44 AM,Victim 1,76,111,0,Died
+105,11:58:45 AM,Victim 1,76,111,0,Died
+106,11:58:46 AM,Victim 1,76,111,0,Died
+107,11:58:47 AM,Victim 1,76,111,0,Died
+108,11:58:48 AM,Victim 1,76,111,0,Died
+109,11:58:49 AM,Victim 1,76,111,0,Died
+110,11:58:50 AM,Victim 1,76,111,0,Died
+111,11:58:51 AM,Victim 1,76,111,0,Died
+112,11:58:52 AM,Victim 1,76,111,0,Died
+113,11:58:53 AM,Victim 1,76,111,0,Died
+114,11:58:54 AM,Victim 1,76,111,0,Died
+115,11:58:55 AM,Victim 1,76,111,0,Died
+116,11:58:56 AM,Victim 1,76,111,0,Died
+117,11:58:57 AM,Victim 1,76,111,0,Died
+118,11:58:58 AM,Victim 1,76,111,0,Died
+119,11:58:59 AM,Victim 1,76,111,0,Died
+120,11:59:00 AM,Victim 1,76,111,0,Died
+121,11:59:01 AM,Victim 1,76,111,0,Died
+122,11:59:02 AM,Victim 1,76,111,0,Died
+123,11:59:03 AM,Victim 1,76,111,0,Died
+124,11:59:04 AM,Victim 1,76,111,0,Died
+125,11:59:05 AM,Victim 1,76,111,0,Died
+126,11:59:06 AM,Victim 1,76,111,0,Died
+127,11:59:07 AM,Victim 1,76,111,0,Died
+128,11:59:08 AM,Victim 1,76,111,0,Died
+129,11:59:09 AM,Victim 1,76,111,0,Died
+130,11:59:10 AM,Victim 1,76,111,0,Died
+131,11:59:11 AM,Victim 1,76,111,0,Died
+132,11:59:12 AM,Victim 1,76,111,0,Died
+133,11:59:13 AM,Victim 1,76,111,0,Died
+134,11:59:14 AM,Victim 1,76,111,0,Died
+135,11:59:15 AM,Victim 1,76,111,0,Died
+136,11:59:16 AM,Victim 1,76,111,0,Died
+137,11:59:17 AM,Victim 1,76,111,0,Died
+138,11:59:18 AM,Victim 1,76,111,0,Died
+139,11:59:19 AM,Victim 1,76,111,0,Died
+140,11:59:20 AM,Victim 1,76,111,0,Died
+141,11:59:21 AM,Victim 1,76,111,0,Died
+142,11:59:22 AM,Victim 1,76,111,0,Died
+143,11:59:23 AM,Victim 1,76,111,0,Died
+144,11:59:24 AM,Victim 1,76,111,0,Died
+145,11:59:25 AM,Victim 1,76,111,0,Died
+146,11:59:26 AM,Victim 1,76,111,0,Died
+147,11:59:27 AM,Victim 1,76,111,0,Died
+148,11:59:28 AM,Victim 1,76,111,0,Died
+149,11:59:29 AM,Victim 1,76,111,0,Died
+150,11:59:30 AM,Victim 1,76,111,0,Died
+151,11:59:31 AM,Victim 1,76,111,0,Died
+152,11:59:32 AM,Victim 1,76,111,0,Died
+153,11:59:33 AM,Victim 1,76,111,0,Died
+154,11:59:34 AM,Victim 1,76,111,0,Died
+155,11:59:35 AM,Victim 1,76,111,0,Died
+156,11:59:36 AM,Victim 1,76,111,0,Died
+157,11:59:37 AM,Victim 1,76,111,0,Died
+158,11:59:38 AM,Victim 1,76,111,0,Died
+159,11:59:39 AM,Victim 1,76,111,0,Died
+160,11:59:40 AM,Victim 1,76,111,0,Died
+161,11:59:41 AM,Victim 1,76,111,0,Died
+162,11:59:42 AM,Victim 1,76,111,0,Died
+163,11:59:43 AM,Victim 1,76,111,0,Died
+164,11:59:44 AM,Victim 1,76,111,0,Died
+165,11:59:45 AM,Victim 1,76,111,0,Died
+166,11:59:46 AM,Victim 1,76,111,0,Died
+167,11:59:47 AM,Victim 1,76,111,0,Died
+168,11:59:48 AM,Victim 1,76,111,0,Died
+169,11:59:49 AM,Victim 1,76,111,0,Died
+170,11:59:50 AM,Victim 1,76,111,0,Died
+171,11:59:51 AM,Victim 1,76,111,0,Died
+172,11:59:52 AM,Victim 1,76,111,0,Died
+173,11:59:53 AM,Victim 1,76,111,0,Died
+174,11:59:54 AM,Victim 1,76,111,0,Died
+175,11:59:55 AM,Victim 1,76,111,0,Died
+176,11:59:56 AM,Victim 1,76,111,0,Died
+177,11:59:57 AM,Victim 1,76,111,0,Died
+178,11:59:58 AM,Victim 1,76,111,0,Died
+179,11:59:59 AM,Victim 1,76,111,0,Died
+180,12:00:00 PM,Victim 1,76,111,0,Died
+181,12:00:01 PM,Victim 1,76,111,0,Died
+182,12:00:02 PM,Victim 1,76,111,0,Died
+183,12:00:03 PM,Victim 1,76,111,0,Died
+184,12:00:04 PM,Victim 1,76,111,0,Died
+185,12:00:05 PM,Victim 1,76,111,0,Died
+186,12:00:06 PM,Victim 1,76,111,0,Died
+187,12:00:07 PM,Victim 1,76,111,0,Died
+188,12:00:08 PM,Victim 1,76,111,0,Died
+189,12:00:09 PM,Victim 1,76,111,0,Died
+190,12:00:10 PM,Victim 1,76,111,0,Died
+191,12:00:11 PM,Victim 1,76,111,0,Died
+192,12:00:12 PM,Victim 1,76,111,0,Died
+193,12:00:13 PM,Victim 1,76,111,0,Died
+194,12:00:14 PM,Victim 1,76,111,0,Died
+195,12:00:15 PM,Victim 1,76,111,0,Died
+196,12:00:16 PM,Victim 1,76,111,0,Died
+197,12:00:17 PM,Victim 1,76,111,0,Died
+198,12:00:18 PM,Victim 1,76,111,0,Died
+199,12:00:19 PM,Victim 1,76,111,0,Died
+200,12:00:20 PM,Victim 1,76,111,0,Died
+201,12:00:21 PM,Victim 1,76,111,0,Died
+202,12:00:22 PM,Victim 1,76,111,0,Died
+203,12:00:23 PM,Victim 1,76,111,0,Died
+204,12:00:24 PM,Victim 1,76,111,0,Died
+205,12:00:25 PM,Victim 1,76,111,0,Died
+206,12:00:26 PM,Victim 1,76,111,0,Died
+207,12:00:27 PM,Victim 1,76,111,0,Died
+0,11:57:00 AM,Victim 2,37,97,0,Alive
+1,11:57:01 AM,Victim 2,37,97,0,Alive
+2,11:57:02 AM,Victim 2,37,97,0,Alive
+3,11:57:03 AM,Victim 2,37,97,0,Alive
+4,11:57:04 AM,Victim 2,37,97,0,Alive
+5,11:57:05 AM,Victim 2,37,97,0,Alive
+6,11:57:06 AM,Victim 2,37,97,0,Alive
+7,11:57:07 AM,Victim 2,37,97,0,Alive
+8,11:57:08 AM,Victim 2,37,97,0,Alive
+9,11:57:09 AM,Victim 2,37,97,0,Alive
+10,11:57:10 AM,Victim 2,37,97,0,Alive
+11,11:57:11 AM,Victim 2,37,97,0,Alive
+12,11:57:12 AM,Victim 2,37,97,0,Alive
+13,11:57:13 AM,Victim 2,37,97,0,Alive
+14,11:57:14 AM,Victim 2,37,97,0,Alive
+15,11:57:15 AM,Victim 2,37,97,0,Alive
+16,11:57:16 AM,Victim 2,37,97,0,Alive
+17,11:57:17 AM,Victim 2,37,97,0,Alive
+18,11:57:18 AM,Victim 2,37,97,0,Alive
+19,11:57:19 AM,Victim 2,37,97,0,Alive
+20,11:57:20 AM,Victim 2,37,97,0,Alive
+21,11:57:21 AM,Victim 2,37,97,0,Alive
+22,11:57:22 AM,Victim 2,37,97,0,Alive
+23,11:57:23 AM,Victim 2,37,97,0,Alive
+24,11:57:24 AM,Victim 2,37,97,0,Alive
+25,11:57:25 AM,Victim 2,37,97,0,Alive
+26,11:57:26 AM,Victim 2,37,97,0,Alive
+27,11:57:27 AM,Victim 2,37,97,0,Alive
+28,11:57:28 AM,Victim 2,37,97,0,Alive
+29,11:57:29 AM,Victim 2,37,97,0,Alive
+30,11:57:30 AM,Victim 2,37,97,0,Alive
+31,11:57:31 AM,Victim 2,37,97,0,Alive
+32,11:57:32 AM,Victim 2,37,97,0,Alive
+33,11:57:33 AM,Victim 2,37,97,0,Alive
+34,11:57:34 AM,Victim 2,37,97,0,Alive
+35,11:57:35 AM,Victim 2,37,97,0,Alive
+36,11:57:36 AM,Victim 2,37,97,0,Alive
+37,11:57:37 AM,Victim 2,37,97,0,Alive
+38,11:57:38 AM,Victim 2,37,97,0,Alive
+39,11:57:39 AM,Victim 2,37,97,0,Alive
+40,11:57:40 AM,Victim 2,37,97,0,Alive
+41,11:57:41 AM,Victim 2,37,97,0,Alive
+42,11:57:42 AM,Victim 2,37,97,0,Alive
+43,11:57:43 AM,Victim 2,37,97,0,Alive
+44,11:57:44 AM,Victim 2,37,97,0,Alive
+45,11:57:45 AM,Victim 2,37,97,0,Alive
+46,11:57:46 AM,Victim 2,37,97,0,Alive
+47,11:57:47 AM,Victim 2,37,97,0,Alive
+48,11:57:48 AM,Victim 2,37,97,0,Alive
+49,11:57:49 AM,Victim 2,37,97,0,Alive
+50,11:57:50 AM,Victim 2,37,97,0,Alive
+51,11:57:51 AM,Victim 2,37,97,0,Alive
+52,11:57:52 AM,Victim 2,37,97,0,Alive
+53,11:57:53 AM,Victim 2,37,97,0,Alive
+54,11:57:54 AM,Victim 2,37,97,0,Alive
+55,11:57:55 AM,Victim 2,37,97,0,Alive
+56,11:57:56 AM,Victim 2,37,97,0,Alive
+57,11:57:57 AM,Victim 2,37,97,0,Alive
+58,11:57:58 AM,Victim 2,37,97,0,Alive
+59,11:57:59 AM,Victim 2,37,97,0,Alive
+60,11:58:00 AM,Victim 2,37,97,0,Alive
+61,11:58:01 AM,Victim 2,37,97,0,Alive
+62,11:58:02 AM,Victim 2,37,97,0,Alive
+63,11:58:03 AM,Victim 2,37,97,0,Alive
+64,11:58:04 AM,Victim 2,37,97,0,Alive
+65,11:58:05 AM,Victim 2,37,97,0,Alive
+66,11:58:06 AM,Victim 2,37,97,0,Alive
+67,11:58:07 AM,Victim 2,37,97,0,Alive
+68,11:58:08 AM,Victim 2,37,97,0,Alive
+69,11:58:09 AM,Victim 2,37,97,0,Alive
+70,11:58:10 AM,Victim 2,37,97,0,Alive
+71,11:58:11 AM,Victim 2,37,97,0,Alive
+72,11:58:12 AM,Victim 2,37,97,0,Alive
+73,11:58:13 AM,Victim 2,37,97,0,Alive
+74,11:58:14 AM,Victim 2,37,97,0,Alive
+75,11:58:15 AM,Victim 2,37,97,0,Alive
+76,11:58:16 AM,Victim 2,37,97,0,Alive
+77,11:58:17 AM,Victim 2,37,97,0,Alive
+78,11:58:18 AM,Victim 2,37,97,0,Alive
+79,11:58:19 AM,Victim 2,37,97,0,Alive
+80,11:58:20 AM,Victim 2,37,97,0,Alive
+81,11:58:21 AM,Victim 2,37,97,0,Alive
+82,11:58:22 AM,Victim 2,37,97,0,Alive
+83,11:58:23 AM,Victim 2,37,97,0,Alive
+84,11:58:24 AM,Victim 2,37,97,0,Alive
+85,11:58:25 AM,Victim 2,37,97,0,Alive
+86,11:58:26 AM,Victim 2,37,97,0,Alive
+87,11:58:27 AM,Victim 2,37,97,0,Alive
+88,11:58:28 AM,Victim 2,37,97,0,Alive
+89,11:58:29 AM,Victim 2,37,97,0,Alive
+90,11:58:30 AM,Victim 2,37,97,0,Alive
+91,11:58:31 AM,Victim 2,37,97,0,Alive
+92,11:58:32 AM,Victim 2,37,97,0,Alive
+93,11:58:33 AM,Victim 2,37,97,0,Alive
+94,11:58:34 AM,Victim 2,37,97,0,Alive
+95,11:58:35 AM,Victim 2,37,97,0,Alive
+96,11:58:36 AM,Victim 2,37,97,0,Alive
+97,11:58:37 AM,Victim 2,37,97,0,Alive
+98,11:58:38 AM,Victim 2,37,97,0,Alive
+99,11:58:39 AM,Victim 2,37,97,0,Alive
+100,11:58:40 AM,Victim 2,37,97,0,Alive
+101,11:58:41 AM,Victim 2,37,97,0,Alive
+102,11:58:42 AM,Victim 2,37,97,0,Alive
+103,11:58:43 AM,Victim 2,37,97,0,Alive
+104,11:58:44 AM,Victim 2,37,97,0,Alive
+105,11:58:45 AM,Victim 2,37,97,0,Alive
+106,11:58:46 AM,Victim 2,37,97,0,Alive
+107,11:58:47 AM,Victim 2,37,97,0,Alive
+108,11:58:48 AM,Victim 2,37,97,0,Alive
+109,11:58:49 AM,Victim 2,37,97,0,Alive
+110,11:58:50 AM,Victim 2,37,97,0,Alive
+111,11:58:51 AM,Victim 2,37,97,0,Alive
+112,11:58:52 AM,Victim 2,37,97,0,Alive
+113,11:58:53 AM,Victim 2,37,97,0,Alive
+114,11:58:54 AM,Victim 2,37,97,0,Alive
+115,11:58:55 AM,Victim 2,37,97,0,Alive
+116,11:58:56 AM,Victim 2,37,97,0,Alive
+117,11:58:57 AM,Victim 2,37,97,0,Alive
+118,11:58:58 AM,Victim 2,37,97,0,Alive
+119,11:58:59 AM,Victim 2,37,97,0,Alive
+120,11:59:00 AM,Victim 2,37,97,0,Alive
+121,11:59:01 AM,Victim 2,37,97,0,Alive
+122,11:59:02 AM,Victim 2,37,97,0,Alive
+123,11:59:03 AM,Victim 2,37,97,0,Alive
+124,11:59:04 AM,Victim 2,37,97,0,Alive
+125,11:59:05 AM,Victim 2,37,97,0,Alive
+126,11:59:06 AM,Victim 2,37,97,0,Alive
+127,11:59:07 AM,Victim 2,37,97,0,Alive
+128,11:59:08 AM,Victim 2,37,97,0,Alive
+129,11:59:09 AM,Victim 2,37,97,0,Alive
+130,11:59:10 AM,Victim 2,37,97,0,Alive
+131,11:59:11 AM,Victim 2,37,97,0,Alive
+132,11:59:12 AM,Victim 2,37,97,0,Alive
+133,11:59:13 AM,Victim 2,37,97,0,Alive
+134,11:59:14 AM,Victim 2,37,97,0,Alive
+135,11:59:15 AM,Victim 2,37,97,0,Alive
+136,11:59:16 AM,Victim 2,37,97,0,Alive
+137,11:59:17 AM,Victim 2,37,97,0,Alive
+138,11:59:18 AM,Victim 2,37,97,0,Alive
+139,11:59:19 AM,Victim 2,37,97,0,Alive
+140,11:59:20 AM,Victim 2,37,97,0,Alive
+141,11:59:21 AM,Victim 2,37,97,0,Alive
+142,11:59:22 AM,Victim 2,37,97,0,Alive
+143,11:59:23 AM,Victim 2,37,97,0,Alive
+144,11:59:24 AM,Victim 2,37,97,0,Alive
+145,11:59:25 AM,Victim 2,37,97,0,Alive
+146,11:59:26 AM,Victim 2,37,97,0,Alive
+147,11:59:27 AM,Victim 2,37,97,0,Alive
+148,11:59:28 AM,Victim 2,37,97,0,Alive
+149,11:59:29 AM,Victim 2,37,97,0,Alive
+150,11:59:30 AM,Victim 2,37,97,0,Alive
+151,11:59:31 AM,Victim 2,37,97,0,Alive
+152,11:59:32 AM,Victim 2,37,97,0,Alive
+153,11:59:33 AM,Victim 2,37,97,0,Alive
+154,11:59:34 AM,Victim 2,37,97,0,Alive
+155,11:59:35 AM,Victim 2,37,97,0,Alive
+156,11:59:36 AM,Victim 2,37,97,0,Alive
+157,11:59:37 AM,Victim 2,37,97,0,Alive
+158,11:59:38 AM,Victim 2,37,97,0,Alive
+159,11:59:39 AM,Victim 2,37,97,0,Alive
+160,11:59:40 AM,Victim 2,37,97,0,Alive
+161,11:59:41 AM,Victim 2,37,97,0,Alive
+162,11:59:42 AM,Victim 2,37,97,0,Alive
+163,11:59:43 AM,Victim 2,37,97,0,Died
+164,11:59:44 AM,Victim 2,37,97,0,Died
+165,11:59:45 AM,Victim 2,37,97,0,Died
+166,11:59:46 AM,Victim 2,37,97,0,Died
+167,11:59:47 AM,Victim 2,37,97,0,Died
+168,11:59:48 AM,Victim 2,37,97,0,Died
+169,11:59:49 AM,Victim 2,37,97,0,Died
+170,11:59:50 AM,Victim 2,37,97,0,Died
+171,11:59:51 AM,Victim 2,37,97,0,Died
+172,11:59:52 AM,Victim 2,37,97,0,Died
+173,11:59:53 AM,Victim 2,37,97,0,Died
+174,11:59:54 AM,Victim 2,37,97,0,Died
+175,11:59:55 AM,Victim 2,37,97,0,Died
+176,11:59:56 AM,Victim 2,37,97,0,Died
+177,11:59:57 AM,Victim 2,37,97,0,Died
+178,11:59:58 AM,Victim 2,37,97,0,Died
+179,11:59:59 AM,Victim 2,37,97,0,Died
+180,12:00:00 PM,Victim 2,37,97,0,Died
+181,12:00:01 PM,Victim 2,37,97,0,Died
+182,12:00:02 PM,Victim 2,37,97,0,Died
+183,12:00:03 PM,Victim 2,37,97,0,Died
+184,12:00:04 PM,Victim 2,37,97,0,Died
+185,12:00:05 PM,Victim 2,37,97,0,Died
+186,12:00:06 PM,Victim 2,37,97,0,Died
+187,12:00:07 PM,Victim 2,37,97,0,Died
+188,12:00:08 PM,Victim 2,37,97,0,Died
+189,12:00:09 PM,Victim 2,37,97,0,Died
+190,12:00:10 PM,Victim 2,37,97,0,Died
+191,12:00:11 PM,Victim 2,37,97,0,Died
+192,12:00:12 PM,Victim 2,37,97,0,Died
+193,12:00:13 PM,Victim 2,37,97,0,Died
+194,12:00:14 PM,Victim 2,37,97,0,Died
+195,12:00:15 PM,Victim 2,37,97,0,Died
+196,12:00:16 PM,Victim 2,37,97,0,Died
+197,12:00:17 PM,Victim 2,37,97,0,Died
+198,12:00:18 PM,Victim 2,37,97,0,Died
+199,12:00:19 PM,Victim 2,37,97,0,Died
+200,12:00:20 PM,Victim 2,37,97,0,Died
+201,12:00:21 PM,Victim 2,37,97,0,Died
+202,12:00:22 PM,Victim 2,37,97,0,Died
+203,12:00:23 PM,Victim 2,37,97,0,Died
+204,12:00:24 PM,Victim 2,37,97,0,Died
+205,12:00:25 PM,Victim 2,37,97,0,Died
+206,12:00:26 PM,Victim 2,37,97,0,Died
+207,12:00:27 PM,Victim 2,37,97,0,Died
+0,11:57:00 AM,Victim 3,-1,-1,0,Alive
+1,11:57:01 AM,Victim 3,-1,-1,0,Alive
+2,11:57:02 AM,Victim 3,-1,-1,0,Alive
+3,11:57:03 AM,Victim 3,-1,-1,0,Alive
+4,11:57:04 AM,Victim 3,-1,-1,0,Alive
+5,11:57:05 AM,Victim 3,-1,-1,0,Alive
+6,11:57:06 AM,Victim 3,-1,-1,0,Alive
+7,11:57:07 AM,Victim 3,-1,-1,0,Alive
+8,11:57:08 AM,Victim 3,-1,-1,0,Alive
+9,11:57:09 AM,Victim 3,-1,-1,0,Alive
+10,11:57:10 AM,Victim 3,-1,-1,0,Alive
+11,11:57:11 AM,Victim 3,55,0,0,Alive
+12,11:57:12 AM,Victim 3,54,1,0,Alive
+13,11:57:13 AM,Victim 3,53,2,0,Alive
+14,11:57:14 AM,Victim 3,52,3,0,Alive
+15,11:57:15 AM,Victim 3,51,4,0,Alive
+16,11:57:16 AM,Victim 3,50,5,0,Alive
+17,11:57:17 AM,Victim 3,48,5,0,Alive
+18,11:57:18 AM,Victim 3,46,5,0,Alive
+19,11:57:19 AM,Victim 3,44,5,0,Alive
+20,11:57:20 AM,Victim 3,42,5,0,Alive
+21,11:57:21 AM,Victim 3,40,5,0,Alive
+22,11:57:22 AM,Victim 3,38,5,0,Alive
+23,11:57:23 AM,Victim 3,36,5,0,Alive
+24,11:57:24 AM,Victim 3,34,5,0,Alive
+25,11:57:25 AM,Victim 3,32,5,0,Alive
+26,11:57:26 AM,Victim 3,28,5,0,Non-Fatally Injured
+27,11:57:27 AM,Victim 3,24,5,0,Non-Fatally Injured
+28,11:57:28 AM,Victim 3,20,5,0,Non-Fatally Injured
+29,11:57:29 AM,Victim 3,16,5,0,Non-Fatally Injured
+30,11:57:30 AM,Victim 3,12,5,0,Non-Fatally Injured
+31,11:57:31 AM,Victim 3,8,5,0,Non-Fatally Injured
+32,11:57:32 AM,Victim 3,4,5,0,Non-Fatally Injured
+33,11:57:33 AM,Victim 3,0,5,0,Non-Fatally Injured
+34,11:57:34 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+35,11:57:35 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+36,11:57:36 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+37,11:57:37 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+38,11:57:38 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+39,11:57:39 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+40,11:57:40 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+41,11:57:41 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+42,11:57:42 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+43,11:57:43 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+44,11:57:44 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+45,11:57:45 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+46,11:57:46 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+47,11:57:47 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+48,11:57:48 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+49,11:57:49 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+50,11:57:50 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+51,11:57:51 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+52,11:57:52 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+53,11:57:53 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+54,11:57:54 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+55,11:57:55 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+56,11:57:56 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+57,11:57:57 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+58,11:57:58 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+59,11:57:59 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+60,11:58:00 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+61,11:58:01 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+62,11:58:02 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+63,11:58:03 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+64,11:58:04 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+65,11:58:05 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+66,11:58:06 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+67,11:58:07 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+68,11:58:08 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+69,11:58:09 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+70,11:58:10 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+71,11:58:11 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+72,11:58:12 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+73,11:58:13 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+74,11:58:14 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+75,11:58:15 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+76,11:58:16 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+77,11:58:17 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+78,11:58:18 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+79,11:58:19 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+80,11:58:20 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+81,11:58:21 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+82,11:58:22 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+83,11:58:23 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+84,11:58:24 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+85,11:58:25 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+86,11:58:26 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+87,11:58:27 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+88,11:58:28 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+89,11:58:29 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+90,11:58:30 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+91,11:58:31 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+92,11:58:32 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+93,11:58:33 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+94,11:58:34 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+95,11:58:35 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+96,11:58:36 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+97,11:58:37 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+98,11:58:38 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+99,11:58:39 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+100,11:58:40 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+101,11:58:41 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+102,11:58:42 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+103,11:58:43 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+104,11:58:44 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+105,11:58:45 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+106,11:58:46 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+107,11:58:47 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+108,11:58:48 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+109,11:58:49 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+110,11:58:50 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+111,11:58:51 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+112,11:58:52 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+113,11:58:53 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+114,11:58:54 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+115,11:58:55 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+116,11:58:56 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+117,11:58:57 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+118,11:58:58 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+119,11:58:59 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+120,11:59:00 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+121,11:59:01 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+122,11:59:02 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+123,11:59:03 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+124,11:59:04 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+125,11:59:05 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+126,11:59:06 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+127,11:59:07 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+128,11:59:08 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+129,11:59:09 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+130,11:59:10 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+131,11:59:11 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+132,11:59:12 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+133,11:59:13 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+134,11:59:14 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+135,11:59:15 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+136,11:59:16 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+137,11:59:17 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+138,11:59:18 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+139,11:59:19 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+140,11:59:20 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+141,11:59:21 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+142,11:59:22 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+143,11:59:23 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+144,11:59:24 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+145,11:59:25 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+146,11:59:26 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+147,11:59:27 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+148,11:59:28 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+149,11:59:29 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+150,11:59:30 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+151,11:59:31 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+152,11:59:32 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+153,11:59:33 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+154,11:59:34 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+155,11:59:35 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+156,11:59:36 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+157,11:59:37 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+158,11:59:38 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+159,11:59:39 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+160,11:59:40 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+161,11:59:41 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+162,11:59:42 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+163,11:59:43 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+164,11:59:44 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+165,11:59:45 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+166,11:59:46 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+167,11:59:47 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+168,11:59:48 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+169,11:59:49 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+170,11:59:50 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+171,11:59:51 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+172,11:59:52 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+173,11:59:53 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+174,11:59:54 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+175,11:59:55 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+176,11:59:56 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+177,11:59:57 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+178,11:59:58 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+179,11:59:59 AM,Victim 3,-1,-1,0,Non-Fatally Injured
+180,12:00:00 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+181,12:00:01 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+182,12:00:02 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+183,12:00:03 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+184,12:00:04 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+185,12:00:05 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+186,12:00:06 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+187,12:00:07 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+188,12:00:08 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+189,12:00:09 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+190,12:00:10 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+191,12:00:11 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+192,12:00:12 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+193,12:00:13 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+194,12:00:14 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+195,12:00:15 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+196,12:00:16 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+197,12:00:17 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+198,12:00:18 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+199,12:00:19 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+200,12:00:20 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+201,12:00:21 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+202,12:00:22 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+203,12:00:23 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+204,12:00:24 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+205,12:00:25 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+206,12:00:26 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+207,12:00:27 PM,Victim 3,-1,-1,0,Non-Fatally Injured
+0,11:57:00 AM,Victim 4,-1,-1,0,Alive
+1,11:57:01 AM,Victim 4,-1,-1,0,Alive
+2,11:57:02 AM,Victim 4,-1,-1,0,Alive
+3,11:57:03 AM,Victim 4,-1,-1,0,Alive
+4,11:57:04 AM,Victim 4,-1,-1,0,Alive
+5,11:57:05 AM,Victim 4,-1,-1,0,Alive
+6,11:57:06 AM,Victim 4,-1,-1,0,Alive
+7,11:57:07 AM,Victim 4,-1,-1,0,Alive
+8,11:57:08 AM,Victim 4,-1,-1,0,Alive
+9,11:57:09 AM,Victim 4,-1,-1,0,Alive
+10,11:57:10 AM,Victim 4,56,0,0,Alive
+11,11:57:11 AM,Victim 4,55,1,0,Alive
+12,11:57:12 AM,Victim 4,54,2,0,Alive
+13,11:57:13 AM,Victim 4,53,3,0,Alive
+14,11:57:14 AM,Victim 4,52,4,0,Alive
+15,11:57:15 AM,Victim 4,51,5,0,Alive
+16,11:57:16 AM,Victim 4,50,6,0,Alive
+17,11:57:17 AM,Victim 4,48,6,0,Alive
+18,11:57:18 AM,Victim 4,46,6,0,Alive
+19,11:57:19 AM,Victim 4,44,6,0,Alive
+20,11:57:20 AM,Victim 4,42,6,0,Alive
+21,11:57:21 AM,Victim 4,40,6,0,Alive
+22,11:57:22 AM,Victim 4,38,6,0,Alive
+23,11:57:23 AM,Victim 4,36,6,0,Alive
+24,11:57:24 AM,Victim 4,34,6,0,Alive
+25,11:57:25 AM,Victim 4,32,6,0,Non-Fatally Injured
+26,11:57:26 AM,Victim 4,28,6,0,Non-Fatally Injured
+27,11:57:27 AM,Victim 4,24,6,0,Non-Fatally Injured
+28,11:57:28 AM,Victim 4,20,6,0,Non-Fatally Injured
+29,11:57:29 AM,Victim 4,16,6,0,Non-Fatally Injured
+30,11:57:30 AM,Victim 4,12,6,0,Non-Fatally Injured
+31,11:57:31 AM,Victim 4,8,6,0,Non-Fatally Injured
+32,11:57:32 AM,Victim 4,4,6,0,Non-Fatally Injured
+33,11:57:33 AM,Victim 4,0,6,0,Non-Fatally Injured
+34,11:57:34 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+35,11:57:35 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+36,11:57:36 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+37,11:57:37 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+38,11:57:38 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+39,11:57:39 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+40,11:57:40 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+41,11:57:41 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+42,11:57:42 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+43,11:57:43 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+44,11:57:44 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+45,11:57:45 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+46,11:57:46 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+47,11:57:47 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+48,11:57:48 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+49,11:57:49 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+50,11:57:50 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+51,11:57:51 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+52,11:57:52 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+53,11:57:53 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+54,11:57:54 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+55,11:57:55 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+56,11:57:56 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+57,11:57:57 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+58,11:57:58 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+59,11:57:59 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+60,11:58:00 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+61,11:58:01 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+62,11:58:02 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+63,11:58:03 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+64,11:58:04 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+65,11:58:05 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+66,11:58:06 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+67,11:58:07 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+68,11:58:08 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+69,11:58:09 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+70,11:58:10 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+71,11:58:11 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+72,11:58:12 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+73,11:58:13 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+74,11:58:14 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+75,11:58:15 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+76,11:58:16 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+77,11:58:17 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+78,11:58:18 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+79,11:58:19 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+80,11:58:20 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+81,11:58:21 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+82,11:58:22 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+83,11:58:23 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+84,11:58:24 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+85,11:58:25 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+86,11:58:26 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+87,11:58:27 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+88,11:58:28 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+89,11:58:29 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+90,11:58:30 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+91,11:58:31 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+92,11:58:32 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+93,11:58:33 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+94,11:58:34 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+95,11:58:35 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+96,11:58:36 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+97,11:58:37 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+98,11:58:38 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+99,11:58:39 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+100,11:58:40 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+101,11:58:41 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+102,11:58:42 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+103,11:58:43 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+104,11:58:44 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+105,11:58:45 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+106,11:58:46 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+107,11:58:47 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+108,11:58:48 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+109,11:58:49 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+110,11:58:50 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+111,11:58:51 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+112,11:58:52 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+113,11:58:53 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+114,11:58:54 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+115,11:58:55 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+116,11:58:56 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+117,11:58:57 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+118,11:58:58 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+119,11:58:59 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+120,11:59:00 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+121,11:59:01 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+122,11:59:02 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+123,11:59:03 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+124,11:59:04 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+125,11:59:05 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+126,11:59:06 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+127,11:59:07 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+128,11:59:08 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+129,11:59:09 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+130,11:59:10 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+131,11:59:11 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+132,11:59:12 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+133,11:59:13 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+134,11:59:14 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+135,11:59:15 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+136,11:59:16 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+137,11:59:17 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+138,11:59:18 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+139,11:59:19 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+140,11:59:20 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+141,11:59:21 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+142,11:59:22 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+143,11:59:23 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+144,11:59:24 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+145,11:59:25 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+146,11:59:26 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+147,11:59:27 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+148,11:59:28 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+149,11:59:29 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+150,11:59:30 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+151,11:59:31 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+152,11:59:32 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+153,11:59:33 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+154,11:59:34 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+155,11:59:35 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+156,11:59:36 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+157,11:59:37 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+158,11:59:38 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+159,11:59:39 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+160,11:59:40 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+161,11:59:41 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+162,11:59:42 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+163,11:59:43 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+164,11:59:44 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+165,11:59:45 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+166,11:59:46 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+167,11:59:47 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+168,11:59:48 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+169,11:59:49 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+170,11:59:50 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+171,11:59:51 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+172,11:59:52 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+173,11:59:53 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+174,11:59:54 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+175,11:59:55 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+176,11:59:56 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+177,11:59:57 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+178,11:59:58 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+179,11:59:59 AM,Victim 4,-1,-1,0,Non-Fatally Injured
+180,12:00:00 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+181,12:00:01 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+182,12:00:02 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+183,12:00:03 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+184,12:00:04 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+185,12:00:05 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+186,12:00:06 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+187,12:00:07 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+188,12:00:08 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+189,12:00:09 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+190,12:00:10 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+191,12:00:11 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+192,12:00:12 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+193,12:00:13 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+194,12:00:14 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+195,12:00:15 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+196,12:00:16 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+197,12:00:17 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+198,12:00:18 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+199,12:00:19 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+200,12:00:20 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+201,12:00:21 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+202,12:00:22 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+203,12:00:23 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+204,12:00:24 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+205,12:00:25 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+206,12:00:26 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+207,12:00:27 PM,Victim 4,-1,-1,0,Non-Fatally Injured
+0,11:57:00 AM,Victim 5,-1,-1,0,Alive
+1,11:57:01 AM,Victim 5,-1,-1,0,Alive
+2,11:57:02 AM,Victim 5,-1,-1,0,Alive
+3,11:57:03 AM,Victim 5,-1,-1,0,Alive
+4,11:57:04 AM,Victim 5,-1,-1,0,Alive
+5,11:57:05 AM,Victim 5,-1,-1,0,Alive
+6,11:57:06 AM,Victim 5,-1,-1,0,Alive
+7,11:57:07 AM,Victim 5,-1,-1,0,Alive
+8,11:57:08 AM,Victim 5,-1,-1,0,Alive
+9,11:57:09 AM,Victim 5,-1,-1,0,Alive
+10,11:57:10 AM,Victim 5,-1,-1,0,Alive
+11,11:57:11 AM,Victim 5,-1,-1,0,Alive
+12,11:57:12 AM,Victim 5,-1,-1,0,Alive
+13,11:57:13 AM,Victim 5,-1,-1,0,Alive
+14,11:57:14 AM,Victim 5,-1,-1,0,Alive
+15,11:57:15 AM,Victim 5,-1,-1,0,Alive
+16,11:57:16 AM,Victim 5,-1,-1,0,Alive
+17,11:57:17 AM,Victim 5,-1,-1,0,Alive
+18,11:57:18 AM,Victim 5,-1,-1,0,Alive
+19,11:57:19 AM,Victim 5,-1,-1,0,Alive
+20,11:57:20 AM,Victim 5,-1,-1,0,Alive
+21,11:57:21 AM,Victim 5,-1,-1,0,Alive
+22,11:57:22 AM,Victim 5,-1,-1,0,Alive
+23,11:57:23 AM,Victim 5,-1,-1,0,Alive
+24,11:57:24 AM,Victim 5,-1,-1,0,Alive
+25,11:57:25 AM,Victim 5,-1,-1,0,Alive
+26,11:57:26 AM,Victim 5,-1,-1,0,Alive
+27,11:57:27 AM,Victim 5,-1,-1,0,Alive
+28,11:57:28 AM,Victim 5,-1,-1,0,Alive
+29,11:57:29 AM,Victim 5,-1,-1,0,Alive
+30,11:57:30 AM,Victim 5,-1,-1,0,Alive
+31,11:57:31 AM,Victim 5,-1,-1,0,Alive
+32,11:57:32 AM,Victim 5,-1,-1,0,Alive
+33,11:57:33 AM,Victim 5,-1,-1,0,Alive
+34,11:57:34 AM,Victim 5,-1,-1,0,Alive
+35,11:57:35 AM,Victim 5,-1,-1,0,Alive
+36,11:57:36 AM,Victim 5,-1,-1,0,Alive
+37,11:57:37 AM,Victim 5,-1,-1,0,Alive
+38,11:57:38 AM,Victim 5,-1,-1,0,Alive
+39,11:57:39 AM,Victim 5,-1,-1,0,Alive
+40,11:57:40 AM,Victim 5,-1,-1,0,Alive
+41,11:57:41 AM,Victim 5,-1,-1,0,Alive
+42,11:57:42 AM,Victim 5,-1,-1,0,Alive
+43,11:57:43 AM,Victim 5,-1,-1,0,Alive
+44,11:57:44 AM,Victim 5,-1,-1,0,Alive
+45,11:57:45 AM,Victim 5,-1,-1,0,Alive
+46,11:57:46 AM,Victim 5,-1,-1,0,Alive
+47,11:57:47 AM,Victim 5,-1,-1,0,Alive
+48,11:57:48 AM,Victim 5,-1,-1,0,Alive
+49,11:57:49 AM,Victim 5,-1,-1,0,Alive
+50,11:57:50 AM,Victim 5,-1,-1,0,Alive
+51,11:57:51 AM,Victim 5,-1,-1,0,Alive
+52,11:57:52 AM,Victim 5,-1,-1,0,Alive
+53,11:57:53 AM,Victim 5,-1,-1,0,Alive
+54,11:57:54 AM,Victim 5,-1,-1,0,Alive
+55,11:57:55 AM,Victim 5,-1,-1,0,Alive
+56,11:57:56 AM,Victim 5,-1,-1,0,Alive
+57,11:57:57 AM,Victim 5,-1,-1,0,Alive
+58,11:57:58 AM,Victim 5,-1,-1,0,Alive
+59,11:57:59 AM,Victim 5,-1,-1,0,Alive
+60,11:58:00 AM,Victim 5,-1,-1,0,Alive
+61,11:58:01 AM,Victim 5,-1,-1,0,Alive
+62,11:58:02 AM,Victim 5,-1,-1,0,Alive
+63,11:58:03 AM,Victim 5,-1,-1,0,Alive
+64,11:58:04 AM,Victim 5,-1,-1,0,Alive
+65,11:58:05 AM,Victim 5,-1,-1,0,Alive
+66,11:58:06 AM,Victim 5,-1,-1,0,Alive
+67,11:58:07 AM,Victim 5,-1,-1,0,Alive
+68,11:58:08 AM,Victim 5,-1,-1,0,Alive
+69,11:58:09 AM,Victim 5,-1,-1,0,Alive
+70,11:58:10 AM,Victim 5,-1,-1,0,Alive
+71,11:58:11 AM,Victim 5,-1,-1,0,Alive
+72,11:58:12 AM,Victim 5,-1,-1,0,Alive
+73,11:58:13 AM,Victim 5,-1,-1,0,Alive
+74,11:58:14 AM,Victim 5,-1,-1,0,Alive
+75,11:58:15 AM,Victim 5,-1,-1,0,Alive
+76,11:58:16 AM,Victim 5,-1,-1,0,Alive
+77,11:58:17 AM,Victim 5,-1,-1,0,Alive
+78,11:58:18 AM,Victim 5,-1,-1,0,Alive
+79,11:58:19 AM,Victim 5,-1,-1,0,Alive
+80,11:58:20 AM,Victim 5,-1,-1,0,Alive
+81,11:58:21 AM,Victim 5,-1,-1,0,Alive
+82,11:58:22 AM,Victim 5,-1,-1,0,Alive
+83,11:58:23 AM,Victim 5,-1,-1,0,Alive
+84,11:58:24 AM,Victim 5,-1,-1,0,Alive
+85,11:58:25 AM,Victim 5,-1,-1,0,Alive
+86,11:58:26 AM,Victim 5,-1,-1,0,Alive
+87,11:58:27 AM,Victim 5,-1,-1,0,Alive
+88,11:58:28 AM,Victim 5,-1,-1,0,Alive
+89,11:58:29 AM,Victim 5,-1,-1,0,Alive
+90,11:58:30 AM,Victim 5,-1,-1,0,Alive
+91,11:58:31 AM,Victim 5,-1,-1,0,Alive
+92,11:58:32 AM,Victim 5,-1,-1,0,Alive
+93,11:58:33 AM,Victim 5,-1,-1,0,Alive
+94,11:58:34 AM,Victim 5,-1,-1,0,Alive
+95,11:58:35 AM,Victim 5,-1,-1,0,Alive
+96,11:58:36 AM,Victim 5,-1,-1,0,Alive
+97,11:58:37 AM,Victim 5,-1,-1,0,Alive
+98,11:58:38 AM,Victim 5,-1,-1,0,Alive
+99,11:58:39 AM,Victim 5,-1,-1,0,Alive
+100,11:58:40 AM,Victim 5,-1,-1,0,Alive
+101,11:58:41 AM,Victim 5,-1,-1,0,Alive
+102,11:58:42 AM,Victim 5,-1,-1,0,Alive
+103,11:58:43 AM,Victim 5,-1,-1,0,Alive
+104,11:58:44 AM,Victim 5,-1,-1,0,Alive
+105,11:58:45 AM,Victim 5,-1,-1,0,Alive
+106,11:58:46 AM,Victim 5,63,127,0,Alive
+107,11:58:47 AM,Victim 5,63,125,0,Alive
+108,11:58:48 AM,Victim 5,66,125,0,Alive
+109,11:58:49 AM,Victim 5,69,125,0,Alive
+110,11:58:50 AM,Victim 5,69,128,0,Alive
+111,11:58:51 AM,Victim 5,68,131,0,Alive
+112,11:58:52 AM,Victim 5,67,134,0,Alive
+113,11:58:53 AM,Victim 5,67,139,0,Alive
+114,11:58:54 AM,Victim 5,67,144,0,Alive
+115,11:58:55 AM,Victim 5,69,146,0,Alive
+116,11:58:56 AM,Victim 5,73,146,0,Alive
+117,11:58:57 AM,Victim 5,77,146,0,Alive
+118,11:58:58 AM,Victim 5,81,146,0,Alive
+119,11:58:59 AM,Victim 5,85,146,0,Alive
+120,11:59:00 AM,Victim 5,89,146,0,Alive
+121,11:59:01 AM,Victim 5,93,146,0,Alive
+122,11:59:02 AM,Victim 5,97,146,0,Non-Fatally Injured
+123,11:59:03 AM,Victim 5,101,146,0,Non-Fatally Injured
+124,11:59:04 AM,Victim 5,105,146,0,Non-Fatally Injured
+125,11:59:05 AM,Victim 5,109,146,0,Non-Fatally Injured
+126,11:59:06 AM,Victim 5,113,146,0,Non-Fatally Injured
+127,11:59:07 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+128,11:59:08 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+129,11:59:09 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+130,11:59:10 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+131,11:59:11 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+132,11:59:12 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+133,11:59:13 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+134,11:59:14 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+135,11:59:15 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+136,11:59:16 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+137,11:59:17 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+138,11:59:18 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+139,11:59:19 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+140,11:59:20 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+141,11:59:21 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+142,11:59:22 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+143,11:59:23 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+144,11:59:24 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+145,11:59:25 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+146,11:59:26 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+147,11:59:27 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+148,11:59:28 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+149,11:59:29 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+150,11:59:30 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+151,11:59:31 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+152,11:59:32 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+153,11:59:33 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+154,11:59:34 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+155,11:59:35 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+156,11:59:36 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+157,11:59:37 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+158,11:59:38 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+159,11:59:39 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+160,11:59:40 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+161,11:59:41 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+162,11:59:42 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+163,11:59:43 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+164,11:59:44 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+165,11:59:45 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+166,11:59:46 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+167,11:59:47 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+168,11:59:48 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+169,11:59:49 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+170,11:59:50 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+171,11:59:51 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+172,11:59:52 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+173,11:59:53 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+174,11:59:54 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+175,11:59:55 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+176,11:59:56 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+177,11:59:57 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+178,11:59:58 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+179,11:59:59 AM,Victim 5,-1,-1,0,Non-Fatally Injured
+180,12:00:00 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+181,12:00:01 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+182,12:00:02 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+183,12:00:03 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+184,12:00:04 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+185,12:00:05 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+186,12:00:06 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+187,12:00:07 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+188,12:00:08 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+189,12:00:09 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+190,12:00:10 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+191,12:00:11 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+192,12:00:12 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+193,12:00:13 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+194,12:00:14 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+195,12:00:15 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+196,12:00:16 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+197,12:00:17 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+198,12:00:18 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+199,12:00:19 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+200,12:00:20 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+201,12:00:21 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+202,12:00:22 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+203,12:00:23 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+204,12:00:24 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+205,12:00:25 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+206,12:00:26 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+207,12:00:27 PM,Victim 5,-1,-1,0,Non-Fatally Injured
+0,11:57:00 AM,Victim 6,-1,-1,0,Alive
+1,11:57:01 AM,Victim 6,-1,-1,0,Alive
+2,11:57:02 AM,Victim 6,-1,-1,0,Alive
+3,11:57:03 AM,Victim 6,-1,-1,0,Alive
+4,11:57:04 AM,Victim 6,-1,-1,0,Alive
+5,11:57:05 AM,Victim 6,-1,-1,0,Alive
+6,11:57:06 AM,Victim 6,-1,-1,0,Alive
+7,11:57:07 AM,Victim 6,-1,-1,0,Alive
+8,11:57:08 AM,Victim 6,-1,-1,0,Alive
+9,11:57:09 AM,Victim 6,-1,-1,0,Alive
+10,11:57:10 AM,Victim 6,-1,-1,0,Alive
+11,11:57:11 AM,Victim 6,-1,-1,0,Alive
+12,11:57:12 AM,Victim 6,-1,-1,0,Alive
+13,11:57:13 AM,Victim 6,-1,-1,0,Alive
+14,11:57:14 AM,Victim 6,-1,-1,0,Alive
+15,11:57:15 AM,Victim 6,-1,-1,0,Alive
+16,11:57:16 AM,Victim 6,-1,-1,0,Alive
+17,11:57:17 AM,Victim 6,-1,-1,0,Alive
+18,11:57:18 AM,Victim 6,-1,-1,0,Alive
+19,11:57:19 AM,Victim 6,-1,-1,0,Alive
+20,11:57:20 AM,Victim 6,-1,-1,0,Alive
+21,11:57:21 AM,Victim 6,-1,-1,0,Alive
+22,11:57:22 AM,Victim 6,-1,-1,0,Alive
+23,11:57:23 AM,Victim 6,-1,-1,0,Alive
+24,11:57:24 AM,Victim 6,-1,-1,0,Alive
+25,11:57:25 AM,Victim 6,-1,-1,0,Alive
+26,11:57:26 AM,Victim 6,-1,-1,0,Alive
+27,11:57:27 AM,Victim 6,-1,-1,0,Alive
+28,11:57:28 AM,Victim 6,-1,-1,0,Alive
+29,11:57:29 AM,Victim 6,-1,-1,0,Alive
+30,11:57:30 AM,Victim 6,-1,-1,0,Alive
+31,11:57:31 AM,Victim 6,-1,-1,0,Alive
+32,11:57:32 AM,Victim 6,-1,-1,0,Alive
+33,11:57:33 AM,Victim 6,-1,-1,0,Alive
+34,11:57:34 AM,Victim 6,-1,-1,0,Alive
+35,11:57:35 AM,Victim 6,-1,-1,0,Alive
+36,11:57:36 AM,Victim 6,-1,-1,0,Alive
+37,11:57:37 AM,Victim 6,-1,-1,0,Alive
+38,11:57:38 AM,Victim 6,-1,-1,0,Alive
+39,11:57:39 AM,Victim 6,-1,-1,0,Alive
+40,11:57:40 AM,Victim 6,-1,-1,0,Alive
+41,11:57:41 AM,Victim 6,-1,-1,0,Alive
+42,11:57:42 AM,Victim 6,-1,-1,0,Alive
+43,11:57:43 AM,Victim 6,-1,-1,0,Alive
+44,11:57:44 AM,Victim 6,-1,-1,0,Alive
+45,11:57:45 AM,Victim 6,-1,-1,0,Alive
+46,11:57:46 AM,Victim 6,-1,-1,0,Alive
+47,11:57:47 AM,Victim 6,-1,-1,0,Alive
+48,11:57:48 AM,Victim 6,-1,-1,0,Alive
+49,11:57:49 AM,Victim 6,-1,-1,0,Alive
+50,11:57:50 AM,Victim 6,-1,-1,0,Alive
+51,11:57:51 AM,Victim 6,-1,-1,0,Alive
+52,11:57:52 AM,Victim 6,-1,-1,0,Alive
+53,11:57:53 AM,Victim 6,-1,-1,0,Alive
+54,11:57:54 AM,Victim 6,-1,-1,0,Alive
+55,11:57:55 AM,Victim 6,-1,-1,0,Alive
+56,11:57:56 AM,Victim 6,-1,-1,0,Alive
+57,11:57:57 AM,Victim 6,-1,-1,0,Alive
+58,11:57:58 AM,Victim 6,-1,-1,0,Alive
+59,11:57:59 AM,Victim 6,-1,-1,0,Alive
+60,11:58:00 AM,Victim 6,-1,-1,0,Alive
+61,11:58:01 AM,Victim 6,-1,-1,0,Alive
+62,11:58:02 AM,Victim 6,-1,-1,0,Alive
+63,11:58:03 AM,Victim 6,-1,-1,0,Alive
+64,11:58:04 AM,Victim 6,-1,-1,0,Alive
+65,11:58:05 AM,Victim 6,-1,-1,0,Alive
+66,11:58:06 AM,Victim 6,-1,-1,0,Alive
+67,11:58:07 AM,Victim 6,-1,-1,0,Alive
+68,11:58:08 AM,Victim 6,-1,-1,0,Alive
+69,11:58:09 AM,Victim 6,-1,-1,0,Alive
+70,11:58:10 AM,Victim 6,-1,-1,0,Alive
+71,11:58:11 AM,Victim 6,-1,-1,0,Alive
+72,11:58:12 AM,Victim 6,-1,-1,0,Alive
+73,11:58:13 AM,Victim 6,-1,-1,0,Alive
+74,11:58:14 AM,Victim 6,-1,-1,0,Alive
+75,11:58:15 AM,Victim 6,-1,-1,0,Alive
+76,11:58:16 AM,Victim 6,-1,-1,0,Alive
+77,11:58:17 AM,Victim 6,-1,-1,0,Alive
+78,11:58:18 AM,Victim 6,-1,-1,0,Alive
+79,11:58:19 AM,Victim 6,-1,-1,0,Alive
+80,11:58:20 AM,Victim 6,-1,-1,0,Alive
+81,11:58:21 AM,Victim 6,-1,-1,0,Alive
+82,11:58:22 AM,Victim 6,-1,-1,0,Alive
+83,11:58:23 AM,Victim 6,-1,-1,0,Alive
+84,11:58:24 AM,Victim 6,-1,-1,0,Alive
+85,11:58:25 AM,Victim 6,-1,-1,0,Alive
+86,11:58:26 AM,Victim 6,-1,-1,0,Alive
+87,11:58:27 AM,Victim 6,-1,-1,0,Alive
+88,11:58:28 AM,Victim 6,-1,-1,0,Alive
+89,11:58:29 AM,Victim 6,-1,-1,0,Alive
+90,11:58:30 AM,Victim 6,-1,-1,0,Alive
+91,11:58:31 AM,Victim 6,-1,-1,0,Alive
+92,11:58:32 AM,Victim 6,-1,-1,0,Alive
+93,11:58:33 AM,Victim 6,-1,-1,0,Alive
+94,11:58:34 AM,Victim 6,-1,-1,0,Alive
+95,11:58:35 AM,Victim 6,-1,-1,0,Alive
+96,11:58:36 AM,Victim 6,-1,-1,0,Alive
+97,11:58:37 AM,Victim 6,-1,-1,0,Alive
+98,11:58:38 AM,Victim 6,-1,-1,0,Alive
+99,11:58:39 AM,Victim 6,-1,-1,0,Alive
+100,11:58:40 AM,Victim 6,-1,-1,0,Alive
+101,11:58:41 AM,Victim 6,-1,-1,0,Alive
+102,11:58:42 AM,Victim 6,-1,-1,0,Alive
+103,11:58:43 AM,Victim 6,-1,-1,0,Alive
+104,11:58:44 AM,Victim 6,-1,-1,0,Alive
+105,11:58:45 AM,Victim 6,-1,-1,0,Alive
+106,11:58:46 AM,Victim 6,-1,-1,0,Alive
+107,11:58:47 AM,Victim 6,-1,-1,0,Alive
+108,11:58:48 AM,Victim 6,63,127,0,Alive
+109,11:58:49 AM,Victim 6,63,125,0,Alive
+110,11:58:50 AM,Victim 6,66,125,0,Alive
+111,11:58:51 AM,Victim 6,69,125,0,Alive
+112,11:58:52 AM,Victim 6,69,128,0,Alive
+113,11:58:53 AM,Victim 6,67,133,0,Alive
+114,11:58:54 AM,Victim 6,67,137,0,Non-Fatally Injured
+115,11:58:55 AM,Victim 6,67,141,0,Non-Fatally Injured
+116,11:58:56 AM,Victim 6,67,145,0,Non-Fatally Injured
+117,11:58:57 AM,Victim 6,67,148,0,Non-Fatally Injured
+118,11:58:58 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+119,11:58:59 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+120,11:59:00 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+121,11:59:01 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+122,11:59:02 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+123,11:59:03 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+124,11:59:04 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+125,11:59:05 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+126,11:59:06 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+127,11:59:07 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+128,11:59:08 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+129,11:59:09 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+130,11:59:10 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+131,11:59:11 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+132,11:59:12 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+133,11:59:13 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+134,11:59:14 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+135,11:59:15 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+136,11:59:16 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+137,11:59:17 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+138,11:59:18 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+139,11:59:19 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+140,11:59:20 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+141,11:59:21 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+142,11:59:22 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+143,11:59:23 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+144,11:59:24 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+145,11:59:25 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+146,11:59:26 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+147,11:59:27 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+148,11:59:28 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+149,11:59:29 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+150,11:59:30 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+151,11:59:31 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+152,11:59:32 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+153,11:59:33 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+154,11:59:34 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+155,11:59:35 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+156,11:59:36 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+157,11:59:37 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+158,11:59:38 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+159,11:59:39 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+160,11:59:40 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+161,11:59:41 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+162,11:59:42 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+163,11:59:43 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+164,11:59:44 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+165,11:59:45 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+166,11:59:46 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+167,11:59:47 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+168,11:59:48 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+169,11:59:49 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+170,11:59:50 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+171,11:59:51 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+172,11:59:52 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+173,11:59:53 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+174,11:59:54 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+175,11:59:55 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+176,11:59:56 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+177,11:59:57 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+178,11:59:58 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+179,11:59:59 AM,Victim 6,-1,-1,0,Non-Fatally Injured
+180,12:00:00 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+181,12:00:01 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+182,12:00:02 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+183,12:00:03 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+184,12:00:04 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+185,12:00:05 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+186,12:00:06 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+187,12:00:07 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+188,12:00:08 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+189,12:00:09 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+190,12:00:10 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+191,12:00:11 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+192,12:00:12 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+193,12:00:13 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+194,12:00:14 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+195,12:00:15 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+196,12:00:16 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+197,12:00:17 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+198,12:00:18 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+199,12:00:19 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+200,12:00:20 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+201,12:00:21 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+202,12:00:22 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+203,12:00:23 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+204,12:00:24 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+205,12:00:25 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+206,12:00:26 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+207,12:00:27 PM,Victim 6,-1,-1,0,Non-Fatally Injured
+0,11:57:00 AM,Victim 7,-1,-1,0,Alive
+1,11:57:01 AM,Victim 7,-1,-1,0,Alive
+2,11:57:02 AM,Victim 7,-1,-1,0,Alive
+3,11:57:03 AM,Victim 7,-1,-1,0,Alive
+4,11:57:04 AM,Victim 7,-1,-1,0,Alive
+5,11:57:05 AM,Victim 7,-1,-1,0,Alive
+6,11:57:06 AM,Victim 7,-1,-1,0,Alive
+7,11:57:07 AM,Victim 7,-1,-1,0,Alive
+8,11:57:08 AM,Victim 7,-1,-1,0,Alive
+9,11:57:09 AM,Victim 7,-1,-1,0,Alive
+10,11:57:10 AM,Victim 7,-1,-1,0,Alive
+11,11:57:11 AM,Victim 7,-1,-1,0,Alive
+12,11:57:12 AM,Victim 7,-1,-1,0,Alive
+13,11:57:13 AM,Victim 7,-1,-1,0,Alive
+14,11:57:14 AM,Victim 7,-1,-1,0,Alive
+15,11:57:15 AM,Victim 7,-1,-1,0,Alive
+16,11:57:16 AM,Victim 7,-1,-1,0,Alive
+17,11:57:17 AM,Victim 7,-1,-1,0,Alive
+18,11:57:18 AM,Victim 7,-1,-1,0,Alive
+19,11:57:19 AM,Victim 7,-1,-1,0,Alive
+20,11:57:20 AM,Victim 7,-1,-1,0,Alive
+21,11:57:21 AM,Victim 7,-1,-1,0,Alive
+22,11:57:22 AM,Victim 7,-1,-1,0,Alive
+23,11:57:23 AM,Victim 7,-1,-1,0,Alive
+24,11:57:24 AM,Victim 7,-1,-1,0,Alive
+25,11:57:25 AM,Victim 7,-1,-1,0,Alive
+26,11:57:26 AM,Victim 7,-1,-1,0,Alive
+27,11:57:27 AM,Victim 7,-1,-1,0,Alive
+28,11:57:28 AM,Victim 7,-1,-1,0,Alive
+29,11:57:29 AM,Victim 7,-1,-1,0,Alive
+30,11:57:30 AM,Victim 7,-1,-1,0,Alive
+31,11:57:31 AM,Victim 7,-1,-1,0,Alive
+32,11:57:32 AM,Victim 7,-1,-1,0,Alive
+33,11:57:33 AM,Victim 7,-1,-1,0,Alive
+34,11:57:34 AM,Victim 7,-1,-1,0,Alive
+35,11:57:35 AM,Victim 7,-1,-1,0,Alive
+36,11:57:36 AM,Victim 7,-1,-1,0,Alive
+37,11:57:37 AM,Victim 7,-1,-1,0,Alive
+38,11:57:38 AM,Victim 7,-1,-1,0,Alive
+39,11:57:39 AM,Victim 7,-1,-1,0,Alive
+40,11:57:40 AM,Victim 7,-1,-1,0,Alive
+41,11:57:41 AM,Victim 7,-1,-1,0,Alive
+42,11:57:42 AM,Victim 7,-1,-1,0,Alive
+43,11:57:43 AM,Victim 7,-1,-1,0,Alive
+44,11:57:44 AM,Victim 7,-1,-1,0,Alive
+45,11:57:45 AM,Victim 7,-1,-1,0,Alive
+46,11:57:46 AM,Victim 7,-1,-1,0,Alive
+47,11:57:47 AM,Victim 7,-1,-1,0,Alive
+48,11:57:48 AM,Victim 7,-1,-1,0,Alive
+49,11:57:49 AM,Victim 7,-1,-1,0,Alive
+50,11:57:50 AM,Victim 7,-1,-1,0,Alive
+51,11:57:51 AM,Victim 7,-1,-1,0,Alive
+52,11:57:52 AM,Victim 7,-1,-1,0,Alive
+53,11:57:53 AM,Victim 7,-1,-1,0,Alive
+54,11:57:54 AM,Victim 7,-1,-1,0,Alive
+55,11:57:55 AM,Victim 7,-1,-1,0,Alive
+56,11:57:56 AM,Victim 7,-1,-1,0,Alive
+57,11:57:57 AM,Victim 7,-1,-1,0,Alive
+58,11:57:58 AM,Victim 7,-1,-1,0,Alive
+59,11:57:59 AM,Victim 7,-1,-1,0,Alive
+60,11:58:00 AM,Victim 7,-1,-1,0,Alive
+61,11:58:01 AM,Victim 7,-1,-1,0,Alive
+62,11:58:02 AM,Victim 7,-1,-1,0,Alive
+63,11:58:03 AM,Victim 7,-1,-1,0,Alive
+64,11:58:04 AM,Victim 7,-1,-1,0,Alive
+65,11:58:05 AM,Victim 7,-1,-1,0,Alive
+66,11:58:06 AM,Victim 7,-1,-1,0,Alive
+67,11:58:07 AM,Victim 7,-1,-1,0,Alive
+68,11:58:08 AM,Victim 7,-1,-1,0,Alive
+69,11:58:09 AM,Victim 7,-1,-1,0,Alive
+70,11:58:10 AM,Victim 7,-1,-1,0,Alive
+71,11:58:11 AM,Victim 7,-1,-1,0,Alive
+72,11:58:12 AM,Victim 7,-1,-1,0,Alive
+73,11:58:13 AM,Victim 7,-1,-1,0,Alive
+74,11:58:14 AM,Victim 7,-1,-1,0,Alive
+75,11:58:15 AM,Victim 7,-1,-1,0,Alive
+76,11:58:16 AM,Victim 7,-1,-1,0,Alive
+77,11:58:17 AM,Victim 7,-1,-1,0,Alive
+78,11:58:18 AM,Victim 7,-1,-1,0,Alive
+79,11:58:19 AM,Victim 7,-1,-1,0,Alive
+80,11:58:20 AM,Victim 7,-1,-1,0,Alive
+81,11:58:21 AM,Victim 7,-1,-1,0,Alive
+82,11:58:22 AM,Victim 7,-1,-1,0,Alive
+83,11:58:23 AM,Victim 7,-1,-1,0,Alive
+84,11:58:24 AM,Victim 7,-1,-1,0,Alive
+85,11:58:25 AM,Victim 7,-1,-1,0,Alive
+86,11:58:26 AM,Victim 7,-1,-1,0,Alive
+87,11:58:27 AM,Victim 7,-1,-1,0,Alive
+88,11:58:28 AM,Victim 7,-1,-1,0,Alive
+89,11:58:29 AM,Victim 7,-1,-1,0,Alive
+90,11:58:30 AM,Victim 7,-1,-1,0,Alive
+91,11:58:31 AM,Victim 7,-1,-1,0,Alive
+92,11:58:32 AM,Victim 7,-1,-1,0,Alive
+93,11:58:33 AM,Victim 7,-1,-1,0,Alive
+94,11:58:34 AM,Victim 7,-1,-1,0,Alive
+95,11:58:35 AM,Victim 7,-1,-1,0,Alive
+96,11:58:36 AM,Victim 7,-1,-1,0,Alive
+97,11:58:37 AM,Victim 7,-1,-1,0,Alive
+98,11:58:38 AM,Victim 7,-1,-1,0,Alive
+99,11:58:39 AM,Victim 7,-1,-1,0,Alive
+100,11:58:40 AM,Victim 7,-1,-1,0,Alive
+101,11:58:41 AM,Victim 7,-1,-1,0,Alive
+102,11:58:42 AM,Victim 7,-1,-1,0,Alive
+103,11:58:43 AM,Victim 7,-1,-1,0,Alive
+104,11:58:44 AM,Victim 7,-1,-1,0,Alive
+105,11:58:45 AM,Victim 7,-1,-1,0,Alive
+106,11:58:46 AM,Victim 7,-1,-1,0,Alive
+107,11:58:47 AM,Victim 7,-1,-1,0,Alive
+108,11:58:48 AM,Victim 7,-1,-1,0,Alive
+109,11:58:49 AM,Victim 7,63,127,0,Alive
+110,11:58:50 AM,Victim 7,63,125,0,Alive
+111,11:58:51 AM,Victim 7,65,125,0,Alive
+112,11:58:52 AM,Victim 7,68,125,0,Alive
+113,11:58:53 AM,Victim 7,69,128,0,Alive
+114,11:58:54 AM,Victim 7,67,132,0,Alive
+115,11:58:55 AM,Victim 7,67,137,0,Non-Fatally Injured
+116,11:58:56 AM,Victim 7,67,141,0,Non-Fatally Injured
+117,11:58:57 AM,Victim 7,67,145,0,Non-Fatally Injured
+118,11:58:58 AM,Victim 7,67,148,0,Non-Fatally Injured
+119,11:58:59 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+120,11:59:00 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+121,11:59:01 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+122,11:59:02 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+123,11:59:03 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+124,11:59:04 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+125,11:59:05 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+126,11:59:06 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+127,11:59:07 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+128,11:59:08 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+129,11:59:09 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+130,11:59:10 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+131,11:59:11 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+132,11:59:12 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+133,11:59:13 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+134,11:59:14 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+135,11:59:15 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+136,11:59:16 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+137,11:59:17 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+138,11:59:18 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+139,11:59:19 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+140,11:59:20 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+141,11:59:21 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+142,11:59:22 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+143,11:59:23 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+144,11:59:24 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+145,11:59:25 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+146,11:59:26 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+147,11:59:27 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+148,11:59:28 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+149,11:59:29 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+150,11:59:30 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+151,11:59:31 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+152,11:59:32 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+153,11:59:33 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+154,11:59:34 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+155,11:59:35 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+156,11:59:36 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+157,11:59:37 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+158,11:59:38 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+159,11:59:39 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+160,11:59:40 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+161,11:59:41 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+162,11:59:42 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+163,11:59:43 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+164,11:59:44 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+165,11:59:45 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+166,11:59:46 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+167,11:59:47 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+168,11:59:48 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+169,11:59:49 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+170,11:59:50 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+171,11:59:51 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+172,11:59:52 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+173,11:59:53 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+174,11:59:54 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+175,11:59:55 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+176,11:59:56 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+177,11:59:57 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+178,11:59:58 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+179,11:59:59 AM,Victim 7,-1,-1,0,Non-Fatally Injured
+180,12:00:00 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+181,12:00:01 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+182,12:00:02 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+183,12:00:03 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+184,12:00:04 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+185,12:00:05 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+186,12:00:06 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+187,12:00:07 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+188,12:00:08 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+189,12:00:09 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+190,12:00:10 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+191,12:00:11 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+192,12:00:12 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+193,12:00:13 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+194,12:00:14 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+195,12:00:15 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+196,12:00:16 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+197,12:00:17 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+198,12:00:18 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+199,12:00:19 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+200,12:00:20 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+201,12:00:21 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+202,12:00:22 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+203,12:00:23 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+204,12:00:24 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+205,12:00:25 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+206,12:00:26 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+207,12:00:27 PM,Victim 7,-1,-1,0,Non-Fatally Injured
+0,11:57:00 AM,Victim 8,31,69,0,Alive
+1,11:57:01 AM,Victim 8,31,69,0,Alive
+2,11:57:02 AM,Victim 8,31,69,0,Alive
+3,11:57:03 AM,Victim 8,31,69,0,Alive
+4,11:57:04 AM,Victim 8,31,69,0,Alive
+5,11:57:05 AM,Victim 8,31,69,0,Alive
+6,11:57:06 AM,Victim 8,31,69,0,Alive
+7,11:57:07 AM,Victim 8,31,69,0,Alive
+8,11:57:08 AM,Victim 8,31,69,0,Alive
+9,11:57:09 AM,Victim 8,31,69,0,Alive
+10,11:57:10 AM,Victim 8,31,69,0,Alive
+11,11:57:11 AM,Victim 8,31,69,0,Alive
+12,11:57:12 AM,Victim 8,31,69,0,Alive
+13,11:57:13 AM,Victim 8,31,69,0,Alive
+14,11:57:14 AM,Victim 8,31,69,0,Alive
+15,11:57:15 AM,Victim 8,31,69,0,Alive
+16,11:57:16 AM,Victim 8,31,69,0,Alive
+17,11:57:17 AM,Victim 8,31,69,0,Alive
+18,11:57:18 AM,Victim 8,31,69,0,Alive
+19,11:57:19 AM,Victim 8,31,69,0,Alive
+20,11:57:20 AM,Victim 8,31,69,0,Alive
+21,11:57:21 AM,Victim 8,31,69,0,Alive
+22,11:57:22 AM,Victim 8,31,69,0,Alive
+23,11:57:23 AM,Victim 8,31,69,0,Alive
+24,11:57:24 AM,Victim 8,31,69,0,Alive
+25,11:57:25 AM,Victim 8,31,69,0,Alive
+26,11:57:26 AM,Victim 8,31,69,0,Alive
+27,11:57:27 AM,Victim 8,31,69,0,Alive
+28,11:57:28 AM,Victim 8,31,69,0,Alive
+29,11:57:29 AM,Victim 8,31,69,0,Alive
+30,11:57:30 AM,Victim 8,31,69,0,Alive
+31,11:57:31 AM,Victim 8,31,69,0,Alive
+32,11:57:32 AM,Victim 8,31,69,0,Alive
+33,11:57:33 AM,Victim 8,31,69,0,Alive
+34,11:57:34 AM,Victim 8,31,69,0,Alive
+35,11:57:35 AM,Victim 8,31,69,0,Alive
+36,11:57:36 AM,Victim 8,31,69,0,Alive
+37,11:57:37 AM,Victim 8,31,69,0,Alive
+38,11:57:38 AM,Victim 8,31,69,0,Alive
+39,11:57:39 AM,Victim 8,31,69,0,Alive
+40,11:57:40 AM,Victim 8,31,69,0,Alive
+41,11:57:41 AM,Victim 8,31,69,0,Alive
+42,11:57:42 AM,Victim 8,31,69,0,Alive
+43,11:57:43 AM,Victim 8,31,69,0,Alive
+44,11:57:44 AM,Victim 8,31,69,0,Alive
+45,11:57:45 AM,Victim 8,31,69,0,Alive
+46,11:57:46 AM,Victim 8,31,69,0,Alive
+47,11:57:47 AM,Victim 8,31,69,0,Alive
+48,11:57:48 AM,Victim 8,31,69,0,Alive
+49,11:57:49 AM,Victim 8,31,69,0,Alive
+50,11:57:50 AM,Victim 8,31,69,0,Alive
+51,11:57:51 AM,Victim 8,31,69,0,Alive
+52,11:57:52 AM,Victim 8,31,69,0,Alive
+53,11:57:53 AM,Victim 8,31,69,0,Alive
+54,11:57:54 AM,Victim 8,31,69,0,Alive
+55,11:57:55 AM,Victim 8,31,69,0,Alive
+56,11:57:56 AM,Victim 8,31,69,0,Alive
+57,11:57:57 AM,Victim 8,31,69,0,Alive
+58,11:57:58 AM,Victim 8,31,69,0,Alive
+59,11:57:59 AM,Victim 8,31,69,0,Alive
+60,11:58:00 AM,Victim 8,31,69,0,Alive
+61,11:58:01 AM,Victim 8,31,69,0,Alive
+62,11:58:02 AM,Victim 8,31,69,0,Alive
+63,11:58:03 AM,Victim 8,31,69,0,Alive
+64,11:58:04 AM,Victim 8,31,69,0,Alive
+65,11:58:05 AM,Victim 8,31,69,0,Alive
+66,11:58:06 AM,Victim 8,31,69,0,Alive
+67,11:58:07 AM,Victim 8,31,69,0,Alive
+68,11:58:08 AM,Victim 8,31,69,0,Alive
+69,11:58:09 AM,Victim 8,31,69,0,Alive
+70,11:58:10 AM,Victim 8,31,69,0,Alive
+71,11:58:11 AM,Victim 8,31,69,0,Alive
+72,11:58:12 AM,Victim 8,31,69,0,Alive
+73,11:58:13 AM,Victim 8,31,69,0,Alive
+74,11:58:14 AM,Victim 8,31,69,0,Alive
+75,11:58:15 AM,Victim 8,31,69,0,Alive
+76,11:58:16 AM,Victim 8,31,69,0,Alive
+77,11:58:17 AM,Victim 8,31,69,0,Alive
+78,11:58:18 AM,Victim 8,31,69,0,Alive
+79,11:58:19 AM,Victim 8,31,69,0,Alive
+80,11:58:20 AM,Victim 8,31,69,0,Alive
+81,11:58:21 AM,Victim 8,31,69,0,Alive
+82,11:58:22 AM,Victim 8,31,69,0,Alive
+83,11:58:23 AM,Victim 8,31,69,0,Alive
+84,11:58:24 AM,Victim 8,31,69,0,Alive
+85,11:58:25 AM,Victim 8,31,69,0,Alive
+86,11:58:26 AM,Victim 8,31,69,0,Alive
+87,11:58:27 AM,Victim 8,31,69,0,Alive
+88,11:58:28 AM,Victim 8,31,69,0,Alive
+89,11:58:29 AM,Victim 8,31,69,0,Alive
+90,11:58:30 AM,Victim 8,31,69,0,Alive
+91,11:58:31 AM,Victim 8,31,69,0,Alive
+92,11:58:32 AM,Victim 8,31,69,0,Alive
+93,11:58:33 AM,Victim 8,31,69,0,Alive
+94,11:58:34 AM,Victim 8,31,69,0,Alive
+95,11:58:35 AM,Victim 8,31,69,0,Alive
+96,11:58:36 AM,Victim 8,31,69,0,Alive
+97,11:58:37 AM,Victim 8,31,69,0,Alive
+98,11:58:38 AM,Victim 8,31,69,0,Alive
+99,11:58:39 AM,Victim 8,31,69,0,Alive
+100,11:58:40 AM,Victim 8,31,69,0,Alive
+101,11:58:41 AM,Victim 8,31,69,0,Alive
+102,11:58:42 AM,Victim 8,31,69,0,Alive
+103,11:58:43 AM,Victim 8,31,69,0,Alive
+104,11:58:44 AM,Victim 8,31,69,0,Alive
+105,11:58:45 AM,Victim 8,31,69,0,Alive
+106,11:58:46 AM,Victim 8,31,69,0,Alive
+107,11:58:47 AM,Victim 8,31,69,0,Alive
+108,11:58:48 AM,Victim 8,31,69,0,Alive
+109,11:58:49 AM,Victim 8,31,69,0,Alive
+110,11:58:50 AM,Victim 8,31,69,0,Alive
+111,11:58:51 AM,Victim 8,31,69,0,Alive
+112,11:58:52 AM,Victim 8,31,69,0,Alive
+113,11:58:53 AM,Victim 8,31,69,0,Alive
+114,11:58:54 AM,Victim 8,31,69,0,Alive
+115,11:58:55 AM,Victim 8,31,69,0,Alive
+116,11:58:56 AM,Victim 8,31,69,0,Alive
+117,11:58:57 AM,Victim 8,31,69,0,Alive
+118,11:58:58 AM,Victim 8,31,69,0,Alive
+119,11:58:59 AM,Victim 8,31,69,0,Alive
+120,11:59:00 AM,Victim 8,31,69,0,Alive
+121,11:59:01 AM,Victim 8,31,69,0,Alive
+122,11:59:02 AM,Victim 8,31,69,0,Alive
+123,11:59:03 AM,Victim 8,31,69,0,Alive
+124,11:59:04 AM,Victim 8,31,69,0,Alive
+125,11:59:05 AM,Victim 8,31,69,0,Alive
+126,11:59:06 AM,Victim 8,31,69,0,Alive
+127,11:59:07 AM,Victim 8,31,69,0,Alive
+128,11:59:08 AM,Victim 8,31,69,0,Alive
+129,11:59:09 AM,Victim 8,31,69,0,Alive
+130,11:59:10 AM,Victim 8,31,69,0,Alive
+131,11:59:11 AM,Victim 8,31,69,0,Alive
+132,11:59:12 AM,Victim 8,31,69,0,Alive
+133,11:59:13 AM,Victim 8,31,69,0,Alive
+134,11:59:14 AM,Victim 8,31,69,0,Alive
+135,11:59:15 AM,Victim 8,31,69,0,Alive
+136,11:59:16 AM,Victim 8,31,69,0,Alive
+137,11:59:17 AM,Victim 8,31,69,0,Alive
+138,11:59:18 AM,Victim 8,31,69,0,Alive
+139,11:59:19 AM,Victim 8,31,69,0,Alive
+140,11:59:20 AM,Victim 8,31,69,0,Alive
+141,11:59:21 AM,Victim 8,31,69,0,Alive
+142,11:59:22 AM,Victim 8,31,69,0,Alive
+143,11:59:23 AM,Victim 8,31,69,0,Alive
+144,11:59:24 AM,Victim 8,31,69,0,Alive
+145,11:59:25 AM,Victim 8,31,69,0,Alive
+146,11:59:26 AM,Victim 8,31,69,0,Alive
+147,11:59:27 AM,Victim 8,31,69,0,Alive
+148,11:59:28 AM,Victim 8,31,69,0,Alive
+149,11:59:29 AM,Victim 8,31,69,0,Alive
+150,11:59:30 AM,Victim 8,31,69,0,Alive
+151,11:59:31 AM,Victim 8,31,69,0,Alive
+152,11:59:32 AM,Victim 8,31,69,0,Alive
+153,11:59:33 AM,Victim 8,31,69,0,Alive
+154,11:59:34 AM,Victim 8,31,69,0,Alive
+155,11:59:35 AM,Victim 8,31,69,0,Alive
+156,11:59:36 AM,Victim 8,31,69,0,Alive
+157,11:59:37 AM,Victim 8,31,69,0,Alive
+158,11:59:38 AM,Victim 8,31,69,0,Alive
+159,11:59:39 AM,Victim 8,31,69,0,Alive
+160,11:59:40 AM,Victim 8,31,69,0,Alive
+161,11:59:41 AM,Victim 8,31,69,0,Alive
+162,11:59:42 AM,Victim 8,31,69,0,Alive
+163,11:59:43 AM,Victim 8,31,69,0,Alive
+164,11:59:44 AM,Victim 8,31,69,0,Alive
+165,11:59:45 AM,Victim 8,31,69,0,Alive
+166,11:59:46 AM,Victim 8,31,69,0,Alive
+167,11:59:47 AM,Victim 8,32,69,0,Alive
+168,11:59:48 AM,Victim 8,33,69,0,Alive
+169,11:59:49 AM,Victim 8,34,69,0,Alive
+170,11:59:50 AM,Victim 8,35,69,0,Alive
+171,11:59:51 AM,Victim 8,36,69,0,Alive
+172,11:59:52 AM,Victim 8,37,69,0,Alive
+173,11:59:53 AM,Victim 8,38,69,0,Alive
+174,11:59:54 AM,Victim 8,39,69,0,Alive
+175,11:59:55 AM,Victim 8,40,69,0,Alive
+176,11:59:56 AM,Victim 8,42,69,0,Alive
+177,11:59:57 AM,Victim 8,44,69,0,Alive
+178,11:59:58 AM,Victim 8,46,69,0,Alive
+179,11:59:59 AM,Victim 8,48,69,0,Alive
+180,12:00:00 PM,Victim 8,50,69,0,Alive
+181,12:00:01 PM,Victim 8,52,69,0,Alive
+182,12:00:02 PM,Victim 8,54,69,0,Alive
+183,12:00:03 PM,Victim 8,57,68,0,Alive
+184,12:00:04 PM,Victim 8,59,65,0,Alive
+185,12:00:05 PM,Victim 8,59,60,0,Alive
+186,12:00:06 PM,Victim 8,59,58,0,Alive
+187,12:00:07 PM,Victim 8,59,54,0,Alive
+188,12:00:08 PM,Victim 8,59,50,0,Alive
+189,12:00:09 PM,Victim 8,59,46,0,Alive
+190,12:00:10 PM,Victim 8,59,42,0,Alive
+191,12:00:11 PM,Victim 8,59,38,0,Alive
+192,12:00:12 PM,Victim 8,59,34,0,Alive
+193,12:00:13 PM,Victim 8,59,30,0,Alive
+194,12:00:14 PM,Victim 8,59,26,0,Alive
+195,12:00:15 PM,Victim 8,59,22,0,Alive
+196,12:00:16 PM,Victim 8,59,18,0,Alive
+197,12:00:17 PM,Victim 8,59,14,0,Alive
+198,12:00:18 PM,Victim 8,59,10,0,Alive
+199,12:00:19 PM,Victim 8,59,6,0,Alive
+200,12:00:20 PM,Victim 8,59,2,0,Alive
+201,12:00:21 PM,Victim 8,-1,-1,0,Alive
+202,12:00:22 PM,Victim 8,-1,-1,0,Alive
+203,12:00:23 PM,Victim 8,-1,-1,0,Alive
+204,12:00:24 PM,Victim 8,-1,-1,0,Alive
+205,12:00:25 PM,Victim 8,-1,-1,0,Alive
+206,12:00:26 PM,Victim 8,-1,-1,0,Alive
+207,12:00:27 PM,Victim 8,-1,-1,0,Alive
