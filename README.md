@@ -1,6 +1,6 @@
-**Warning:** the datasets in this repository contain disturbing details about violent shootings in schools. Viewer discretion is advised.
+**Warning: the datasets in this repository contain disturbing details about violent shootings in schools. Viewer discretion is advised.**
 
-BACKGROUND
+**BACKGROUND**
 
 This project was completed to support research on autonomous robotic systems that are designed to impede active shooters in schools.
 
@@ -8,7 +8,7 @@ The purpose is to document the events of school shootings at high-fidelity, so t
 
 This work was funded by a grant from the National Science Foundation.
 
-INCIDENT SIMULATOR
+**INCIDENT SIMULATOR**
 
 Throughout this project, the incident simulator served as a powerful tool for dataset creation and data visualization.
 
@@ -19,7 +19,7 @@ How to use incident simulator:
 
 
 
-DATASETS
+**DATASETS**
 
 This repository contains spatiotemporal data that tracks the events of historical school shootings second-by-second. The data records estimated (X,Y) grid positions across time for both shooters and victims. It also records the estimated times of shots, injuries, and deaths.
 
